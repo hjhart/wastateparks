@@ -1,1 +1,5 @@
 results.json
+.env
+results/
+.byebug_history
+campground.log

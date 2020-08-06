@@ -1,13 +1,18 @@
 # campground.rb
 require 'kimurai'
+require 'fileutils'
+require_relative './notifier'
+require 'byebug'
+require 'dotenv/load'
 
 class Campground < Kimurai::Base
-  attr_accessor :visited_campground_names, :visited_section_names, :visited_plot_names
+  DEFAULT_WAIT_TIME = 10
+  attr_accessor :filtered_campground_names, :visited_section_names, :visited_plot_names
 
   @name = "campground"
   @engine = :selenium_chrome
-  start_date = "2020-08-01T00:00:00.000Z"
-  end_date = "2020-08-02T00:00:00.000Z"
+  start_date = "2020-08-08T00:00:00.000Z"
+  end_date = "2020-08-09T00:00:00.000Z"
   party_size = 2
   params = { 
     "mapId" => -2147483346,
@@ -15,41 +20,44 @@ class Campground < Kimurai::Base
     "bookingCategoryId" => 0,
     "startDate" => start_date,
     "endDate" => end_date,
-    "nights" => 1,
     "isReserving" => true,
-    "equipmentId" => -32768,
-    "subEquipmentId" => -32768,
+    "equipmentId" => -32768, # 1 tent
+    "subEquipmentId" => -32768, # 1 tent
+    # "equipmentId" => -32767, # 2 tent
+    # "subEquipmentId" => -32767, # 2 tent
     "partySize" => party_size,
-    "searchTime" => "Mon%20Jul%2027%202020%2017:36:28%20GMT-0700%20(Pacific%20Daylight%20Time)",
+    # "searchTime" => "Mon Jul 27 2020 17:36:28 GMT-0700 (Pacific Daylight Time)",
     "resourceLocationId" => "-2147483538"
   }
   start_url = URI::HTTPS.build(host: "washington.goingtocamp.com", path: "/create-booking/results", query: params.to_query)
   @start_urls = [start_url.to_s]
 
   def parse(response, url:, data: {})
+    time = Time.now.iso8601
+    filename = "results/results-#{time}.json"
     browser.click_on 'I Consent'
     response = browser.current_response
 
-    items = {}
-    visited_campground_names = []
+    filtered_campground_names = ["Camano Island​", "Kitsap Memorial​", "Larrabee​", "South Whidbey​", "Twanoh", "Deception Pass", "Retreat Center - Cornet Bay​", "Potlatch​", "Rasar​", "Fort Ebey​", "Schafer", "Rockport​", "Birch Bay", "Fort Townsend", "Lake Wenatchee​", "Peace Arch", "Sequim Bay​", "Retreat Center - Ramblewood​", "Fort Casey​", "Fort Worden​", "Dosewallups", "Fort Flagler​", "Ocean City​", "Retreat Center - Fort Flagler​", "Jarrel Cove", "Pacific Beach​", "Spencer Spit​", "Griffiths-Priday​", "Jones Island​", "Moran​", "Retreat Center - Camp Moran​", "Bogachiel", "Sucia Island​", "Posey Island​", "Blake Island"]
     visited_section_names = []
     visited_plot_names = []
 
+    items = []
     browser.click_on 'LIST View'
-    while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_campground_names), wait: 2).present?
+    while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(filtered_campground_names), wait: DEFAULT_WAIT_TIME).present?
       # Click on campground
       campground_selection_url = browser.current_url
-      campground_element = browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_campground_names)).first
+      campground_element = browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(filtered_campground_names)).first
       logger.info "Found element with html #{campground_element['innerHTML']}"
       campground_name = campground_element.text
       break if campground_name.blank?
-      visited_campground_names << campground_name
+      filtered_campground_names << campground_name
       campground_element.click
 
       wait_until_breadcrumb_updated_to_display(campground_name)
       show_and_hide_available_locations
 
-      while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_section_names), wait: 2).present?
+      while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_section_names), wait: DEFAULT_WAIT_TIME).present?
         # Click on campground section
         section_selection_url = browser.current_url
         section_element = browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_section_names)).first
@@ -62,7 +70,7 @@ class Campground < Kimurai::Base
         wait_until_breadcrumb_updated_to_display(section_name)
         show_and_hide_available_locations
 
-        while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_plot_names), wait: 2).present?
+        while browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_plot_names), wait: DEFAULT_WAIT_TIME).present?
           # Click on campground plot for details
           plot_selection_url = browser.current_url
           plot_element = browser.all(:css, ".resource-name div", text: none_of_these_words_regexp(visited_plot_names)).first
@@ -90,12 +98,12 @@ class Campground < Kimurai::Base
           more_details = browser.all(:css, '.more-details div div')
           while (i < more_details.size) do
             value = more_details[i].text 
-            key = more_details[i+1].text.underscore
+            key = more_details[i+1].text
             value.gsub!(key, "")
-            details[key] = value.strip
+            details[key.underscore] = value.strip
             i+=2
           end
-          directions_url = URI::HTTPS.build(host: "maps.google.com", path: "/maps", query: {saddr: "1911 18th ave s 98144", daddr: campground_name}.to_query)
+          directions_url = URI::HTTPS.build(host: "maps.google.com", path: "/maps", query: {saddr: "1911 18th ave s 98144", daddr: "#{campground_name} state park"}.to_query)
           item_name = "#{campground_name} > #{section_name} > #{plot_name}"
           item = { 
             campground_name: item_name, 
@@ -106,21 +114,40 @@ class Campground < Kimurai::Base
             image: image 
 
           }.merge(details)
-          items[campground_name] = item
-          # End adding unique item
-          logger.debug "Saving item #{item_name}..."
-          save_to "results.json", item, format: :pretty_json
+
+          if(details['ada_only'] == 'Yes') 
+            logger.info "Skipping #{item_name}, ADA only."
+          else
+            # End adding unique item
+            logger.debug "Saving item #{item_name}..."
+            begin
+              Notifier.send(item)
+            rescue Twilio::REST::RestError => error
+              Notifier.failure(error)
+              if ENV.fetch('HEADLESS', true) == "false"
+                byebug
+              end
+            end
+            save_to filename, item, format: :pretty_json
+            items << item
+          end
 
           browser.visit plot_selection_url
           browser.click_on 'LIST View'
         end
         visited_plot_names = []
-        browser.visit section_selection_url
+        browser.visit section_selection_url.gsub(/&searchTime=.*$/, '')
         browser.click_on 'LIST View'
       end
       visited_section_names = []
       browser.visit campground_selection_url
       browser.click_on 'LIST View'
+    end
+    if items.size.positive?
+      logger.info "Saved file successfully #{filename}"
+      FileUtils.ln_sf(filename, 'results.json') 
+    else
+      logger.warn "No campgrounds available. Saving no file."
     end
   end
 
@@ -134,7 +161,14 @@ class Campground < Kimurai::Base
 
   def wait_until_breadcrumb_updated_to_display(name)
     # Wait until the deepest breadcrumb equals name
-    browser.find(:css, "ol[aria-label='Search Result Breadcrumbs'] li button[disabled]", text: name, match: :first)
+    begin
+      browser.find(:css, "ol[aria-label='Search Result Breadcrumbs'] li button[disabled]", text: name, match: :first, wait: 3)
+    rescue Capybara::ElementNotFound => error
+      Notifier.failure(error)
+      if ENV.fetch('HEADLESS', true) == "false"
+        byebug
+      end
+    end
   end
 
   def show_and_hide_available_locations()
