@@ -11,20 +11,20 @@ class Campground < Kimurai::Base
 
   @name = "campground"
   @engine = :selenium_chrome
-  start_date = "2020-08-08T00:00:00.000Z"
-  end_date = "2020-08-09T00:00:00.000Z"
-  party_size = 2
+  @start_date = "2020-08-28T00:00:00.000Z"
+  @end_date = "2020-08-30T00:00:00.000Z"
+  party_size = 4
+
   params = { 
     "mapId" => -2147483346,
     "searchTabGroupId" => 0,
     "bookingCategoryId" => 0,
-    "startDate" => start_date,
-    "endDate" => end_date,
+    "startDate" => @start_date,
+    "endDate" => @end_date,
     "isReserving" => true,
-    "equipmentId" => -32768, # 1 tent
-    "subEquipmentId" => -32768, # 1 tent
-    # "equipmentId" => -32767, # 2 tent
-    # "subEquipmentId" => -32767, # 2 tent
+    "equipmentId" => -32768,
+    # "subEquipmentId" => -32768, # 1 tent
+    "subEquipmentId" => -32767, # 2 tent
     "partySize" => party_size,
     # "searchTime" => "Mon Jul 27 2020 17:36:28 GMT-0700 (Pacific Daylight Time)",
     "resourceLocationId" => "-2147483538"
@@ -111,8 +111,7 @@ class Campground < Kimurai::Base
             campground_url: section_selection_url,
             booking_url: plot_selection_url, 
             description: text, 
-            image: image 
-
+            image: image,
           }.merge(details)
 
           if(details['ada_only'] == 'Yes') 

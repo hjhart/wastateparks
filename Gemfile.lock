@@ -29,6 +29,7 @@ GEM
     connection_pool (2.2.3)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.7.5)
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
     headless (2.3.1)
@@ -120,6 +121,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  dotenv
   kimurai
   twilio-ruby
 
