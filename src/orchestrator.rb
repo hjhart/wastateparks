@@ -8,7 +8,7 @@ class Orchestrator
   def call
     logger.debug 'Starting the application...'
 
-    every_n_minutes(5) do
+    every_n_minutes(config.minutes_interval) do
       logger.debug "Checking on campsite #{config.campground.name} at #{Time.now.strftime('%X')}"
       result = CheckCampsiteAvailability.call(params: config)
 
@@ -30,7 +30,7 @@ class Orchestrator
   def config
     # no availability
     CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-07-29', end_date: '2022-07-31',
-                                   party_size: 2, subequipment: Subequipment.one_tent, minute_interval: 10)
+                                   party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
     # some availability
     # CampgroundSearchParameters.new(Campground.alta_lake, '2022-06-29', '2022-06-30', 2, Subequipment.two_tents)
   end
