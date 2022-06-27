@@ -10,32 +10,33 @@ class Orchestrator
   def call
     logger.debug 'Starting the application...'
 
+    debugger
+    
     every_n_minutes(config.minutes_interval) do
-      logger.debug "Checking on campsite #{config.campground.name} at #{Time.now.strftime('%X')}"
-      result = CheckCampsiteAvailability.call(params: config)
+      config.campgrounds.each do |campground|
+        logger.debug "Checking on campsite #{campground.name} at #{Time.now.strftime('%X')}"
+        result = CheckCampsiteAvailability.call(params: config, campground: campground)
 
-      if result.success?
-        logger.info 'Ran checker successfully'
-        logger.info [result.message, result.data].join(' ')
-        if result.availability_found
-          storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) 
-          Notification.from_result(result).send!
+        if result.success?
+          logger.info 'Ran checker successfully'
+          logger.info [result.message, result.data].join(' ')
+          if result.availability_found
+            storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) 
+            Notification.from_result(result).send!
+          end
         end
-      end
 
-      logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?
+        logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?
+      end
     end
   end
 
   private
 
   def config
-    # no availability
-    # CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-07-29', end_date: '2022-07-31',
-                                  #  party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
-    # some availability
-    CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-06-29', end_date: '2022-06-30',
-                                   party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
+    # config_file = YAML.load_file('./config/no_availability_search.yml')
+    config_file = YAML.load_file('./config/search.yml')
+    CampgroundSearchParameters.new(config_file.to_h)
   end
 end
 

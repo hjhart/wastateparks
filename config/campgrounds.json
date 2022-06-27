@@ -1,0 +1,4734 @@
+[
+	{
+		"resourceLocationId": -2147483535,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "DELETEGriffith-Priday",
+				"fullName": "Griffith-Priday State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "34875 Park Lake Road NE",
+		"city": "Coulee City",
+		"region": null,
+		"regionCode": "99115",
+		"country": null,
+		"phoneNumber": "509-632-5583"
+	},
+	{
+		"resourceLocationId": -2147483482,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "DELETERetreat Center - Wo-He-Lo",
+				"fullName": "Retreat Center - Wo-He-Lo",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "333 Olds Station Rd",
+		"city": "Wenatchee",
+		"region": null,
+		"regionCode": "98801-5938",
+		"country": null,
+		"phoneNumber": "509-664-6373"
+	},
+	{
+		"resourceLocationId": -2147483484,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "DELETERetreat Center - Richmond",
+				"fullName": "Retreat Center - Richmond",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "333 Olds Station Rd",
+		"city": "Wenatchee",
+		"region": null,
+		"regionCode": "98801-5938",
+		"country": null,
+		"phoneNumber": "509-664-6373"
+	},
+	{
+		"resourceLocationId": -2147483483,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "DELETERetreat Center - Wilson",
+				"fullName": "Retreat Center - Wilson",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "333 Olds Station Rd",
+		"city": "Wenatchee",
+		"region": null,
+		"regionCode": "98801-5938",
+		"country": null,
+		"phoneNumber": "509-664-6373"
+	},
+	{
+		"resourceLocationId": -2147483634,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "DELETECamp William T Wooten",
+				"fullName": "Camp Wooten ELC",
+				"description": "A camp with a colorful past, Washington State Parks’ largest retreat center, Camp Wooten, sits in the Blue Mountains of southeastern Washington along the threadlike Tucannon River. Today’s Camp Wooten retains the feel of both a game range and a CCC-era camp; it offers a dining hall with large commercial kitchen, a recreation hall, sleeping cabins, restrooms with showers, a lake for canoeing, an archery range, a mixed-use sports court with loaner nets and an indoor swimming pool. There are sleeping accommodations for up to 200 people, and with park manager approval, tents and RVs may be allowed. ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "2711 Tucannon Rd",
+		"city": "Pomeroy",
+		"region": "Washington",
+		"regionCode": "99347",
+		"country": "USA",
+		"phoneNumber": "509-843-5091"
+	},
+	{
+		"resourceLocationId": -2147483647,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Alta Lake",
+				"fullName": "Alta Lake State Park",
+				"description": "Alta Lake State Park is a 174-acre camping park where mountainous pine forests meet the desert. The lake is about 2 miles long and a half mile wide and offers good trout fishing, conditional waterskiing, and windsurfing during summer months. Lake Chelan, with its many activities, is 30 minutes away. ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/239/Alta-Lake",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.9347, 48.03218",
+		"googleAddress": null,
+		"streetAddress": "1 B Otto Road",
+		"city": "Pateros",
+		"region": "Washington",
+		"regionCode": "98846",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483527,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Anderson Lake",
+				"fullName": "Anderson Lake",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8075, 48.01413",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483646,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Battle Ground Lake",
+				"fullName": "Battle Ground Lake State Park",
+				"description": "The 280-acre park offers hiking, biking, horse trails and a primitive equestrian camping area. The spring-fed lake is attractive to swimmers and paddlers and is stocked with trout, making it a favorite of anglers.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/472/Battle-Ground-Lake",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.4867, 45.80295",
+		"googleAddress": null,
+		"streetAddress": "18002 NE 249th",
+		"city": "Battle Ground",
+		"region": "Washington",
+		"regionCode": "98604",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483645,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Bay View",
+				"fullName": "Bay View State Park",
+				"description": "Bay View State Park is a 25-acre camping park with 1,285 feet of saltwater shoreline on Padilla Bay. The Breazeale Padilla Bay Interpretive Center, located a half-mile from the park, allows families and children to view and interact with the estuary through a series of exhibits and hands-on activities.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/473/Bay-View",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.4805, 48.48806",
+		"googleAddress": null,
+		"streetAddress": "10901 Bay View-Edison Rd",
+		"city": "Mount Vernon",
+		"region": "Washington",
+		"regionCode": "98273",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483644,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Beacon Rock",
+				"fullName": "Beacon Rock State Park",
+				"description": "Beacon Rock State Park is a 4,456-acre year-round camping park located in the heart of the Columbia River Gorge National Scenic Area. Beacon Rock itself is the core of an ancient volcano. The park includes 9,500 feet of freshwater shoreline on the Columbia River and more than 20 miles of roads and trails open to hiking, mountain biking and equestrian use.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/474/Beacon-Rock",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.0253, 45.62318",
+		"googleAddress": null,
+		"streetAddress": "34841 State Road 14",
+		"city": "Skamania",
+		"region": "Washington",
+		"regionCode": "98648",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483643,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Belfair",
+				"fullName": "Belfair State Park",
+				"description": "Belfair State Park is a 65-acre, year-round camping park on 3,720 feet of saltwater shoreline at the southern end of Hood Canal in western Washington. Regular summer interpretive programs, grass fields, warm waters and a playground will occupy the shortest attention spans.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/475/Belfair",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.877, 47.43167",
+		"googleAddress": null,
+		"streetAddress": "3151 NE State Route 300",
+		"city": "Belfair",
+		"region": "Washington",
+		"regionCode": "98528",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483642,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Big Eddy",
+				"fullName": "Big Eddy",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483641,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Birch Bay",
+				"fullName": "Birch Bay State Park",
+				"description": "Birch Bay State Park is a 194-acre camping park with 8,255 feet of saltwater shoreline on Birch Bay and 14,923 feet of freshwater shoreline on Terrell Creek. The Terrell Creek Marsh is one of the few remaining saltwater/freshwater estuaries in north Puget Sound. A natural game sanctuary sits at the park's north end.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/170/Birch-Bay",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7682, 48.90534",
+		"googleAddress": null,
+		"streetAddress": "5105 Helweg Road",
+		"city": "Blaine",
+		"region": "Washington",
+		"regionCode": "98230",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483479,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Blind Island",
+				"fullName": "Blind Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9364, 48.58471",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483639,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Bogachiel",
+				"fullName": "Bogachiel State Park",
+				"description": "Bogachiel State Park is a thickly forested 123-acre camping park on the banks of the Bogachiel River. Relaxation and Olympic Peninsula exploration are the name of the game at Bogachiel. After a leisurely morning on the Bogachiel River, take Highway 101 to the Hoh Rainforest and spend a day among moss and mushrooms. Take a stroll on the mighty Hoh River, give elk herds the right of way and hope for a glimpse of the snowy Olympic Mountains.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.3643, 47.89481",
+		"googleAddress": null,
+		"streetAddress": "185983 Highway 101",
+		"city": "Forks",
+		"region": "Washington",
+		"regionCode": "98331",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483526,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Bottle Beach",
+				"fullName": "Bottle Beach",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.0404, 46.89278",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483638,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Bridgeport",
+				"fullName": "Bridgeport State Park",
+				"description": "Bridgeport State Park is a 748-acre camping park with 7,500 feet of freshwater shoreline on Rufus Woods Lake. Set directly behind Chief Joseph Dam, the park provides 18 acres of lawn and a bit of shade in the midst of a desert terrain.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/480/Bridgeport",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.6258, 48.00307",
+		"googleAddress": null,
+		"streetAddress": "Half-Sun Way Bldg. 11",
+		"city": "Bridgeport",
+		"region": "Washington",
+		"regionCode": "98813",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483637,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Bridle Trails",
+				"fullName": "Bridle Trails",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.1856, 47.65541",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483636,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Brooks Memorial",
+				"fullName": "Brooks Memorial State Park",
+				"description": "Brooks Memorial State Park is a 700-acre, seasonal camping park located between the south Yakima Valley and the Simcoe Mountains 15 miles north of Goldendale off Highway 97. You can gaze at the stars from your campsite or head to Goldendale Observatory State Park, just 20 minutes away, for some of the best night sky viewing in the Pacific Northwest.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/482/Brooks-Memorial",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.6656, 45.94976",
+		"googleAddress": null,
+		"streetAddress": "2465 Highway 97",
+		"city": "Goldendale",
+		"region": "Washington",
+		"regionCode": "98620",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483635,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Burrows Island",
+				"fullName": "Burrows Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7002, 48.47981",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483539,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Cama Beach",
+				"fullName": "Cama Beach State Park",
+				"description": "The entrance to Cama Beach could well be a doorway to an earlier time. Set on Camano Island, an hour north of Seattle, the original family resort had its heyday from the 1930s to the 1950s. This place has retained the feel of a bygone era, with rows of cabins, a park store and a large campfire circle for evening socializing. The park is set in a spectacular, 486-acre waterfront location against a forested backdrop. It is connected by a mile-long trail to the 244-acre Camano Island State Park, which also is open for day use and overnight stays year 'round.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/483/Cama-Beach",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5087, 48.14524",
+		"googleAddress": null,
+		"streetAddress": "1880 SW Camano Dr",
+		"city": "Camano Island",
+		"region": "Washington",
+		"regionCode": "98282",
+		"country": "USA",
+		"phoneNumber": "360-387-1550"
+	},
+	{
+		"resourceLocationId": -2147483538,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Camano Island",
+				"fullName": "Camano Island State Park",
+				"description": "Camano Island State Park is a 244-acre camping park with 6,700 feet of rocky shoreline and beach located an hour from Seattle on beautiful Camano Island. Forest loop trails provide cool, tranquil hiking, while shoreline strolls offer birding, shell and rock exploration and sweeping views of Puget Sound, Olympic Mountains and Mount Rainier.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/484/Camano-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5028, 48.13122",
+		"googleAddress": null,
+		"streetAddress": "2269 S Lowell Point Rd",
+		"city": "Camano Island",
+		"region": "Washington",
+		"regionCode": "98282",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483488,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Camano Island Cabins",
+				"fullName": "Camano Island State Park (Cabins)",
+				"description": "Camano Island State Park is a 244-acre camping park with 6,700 feet of rocky shoreline and beach located an hour from Seattle on beautiful Camano Island. Forest loop trails provide cool, tranquil hiking, while shoreline strolls offer birding, shell and rock exploration and sweeping views of Puget Sound, Olympic Mountains and Mount Rainier.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "2269 S Lowell Point Rd",
+		"city": "Camano Island",
+		"region": "Washington",
+		"regionCode": "98282",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483633,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Cape Disappointment",
+				"fullName": "Cape Disappointment State Park",
+				"description": "Cape Disappointment is a 1,882-acre camping park on the Long Beach Peninsula, fronted by the Pacific Ocean and looking into the mouth of the Columbia River. The park offers yurts, cabins and unique historic vacation homes to meet travelers’ diverse lodging needs.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/486/Cape-Disappointment",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.0632, 46.29841",
+		"googleAddress": null,
+		"streetAddress": "244 Robert Gray Dr",
+		"city": "Ilwaco",
+		"region": "Washington",
+		"regionCode": "98624",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483525,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Centennial Trail",
+				"fullName": "Centennial Trail",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483632,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Chance a la Mer OBA",
+				"fullName": "Chance a la Mer OBA",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1674, 47.00729",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483631,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Clark Island",
+				"fullName": "Clark Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7616, 48.69646",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483629,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Columbia Plateau Trail-North",
+				"fullName": "Columbia Plateau Trail-North",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483628,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Conconully",
+				"fullName": "Conconully State Park",
+				"description": "Conconully State Park is an 81-acre camping park with 5,400 feet of freshwater shoreline in north central Washington. Fish from two lakes: the lower Conconully Reservoir, on which the park sits, and the Upper Conconully Reservoir, known as Conconully Lake. Catch smallmouth bass, rainbow trout and kokanee, or rig up your waterskiing line, and take the kids for a spin.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/491/Conconully",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.7512, 48.55716",
+		"googleAddress": null,
+		"streetAddress": "1 South Lottie",
+		"city": "Conconully",
+		"region": "Washington",
+		"regionCode": "98819",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483523,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Crawford",
+				"fullName": "Crawford",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-117.3702, 48.99306",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483627,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Curlew Lake",
+				"fullName": "Curlew Lake State Park",
+				"description": "Curlew Lake State Park is an 87-acre camping park, 8 miles from the charming gold rush town of Republic. Water sports activities abound in summer, and snow sports are popular in winter. Ranald MacDonald’s Grave, a State Parks heritage site, is not far away. The gravesite is on the roadside of a 25-mile scenic drive along the Kettle River near the Canadian Border.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/493/Curlew-Lake",
+		"faxNumber": "",
+		"gpsCoordinates": "-118.6568, 48.72265",
+		"googleAddress": null,
+		"streetAddress": "68 State Park Road",
+		"city": "Republic",
+		"region": "Washington",
+		"regionCode": "99166",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483626,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Daroga",
+				"fullName": "Daroga State Park",
+				"description": "Daroga State Park is a 90-acre camping park with 1.5 miles of Columbia River shoreline on the elevated edge of the desert scablands. For those whose desert vacation would not be complete without golf, the nationally recognized Desert Canyon Golf Course is just 2 miles away.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/495/Daroga",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.1958, 47.70774",
+		"googleAddress": null,
+		"streetAddress": "1 S Daroga Rd.",
+		"city": "Orondo",
+		"region": "Washington",
+		"regionCode": "98843",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483625,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Dash Point",
+				"fullName": "Dash Point State Park",
+				"description": "Dash Point State Park is set on the Puget Sound in Western Washington and is a popular destination for water recreation. This 398-acre camping park features 3,301 feet of saltwater shoreline. The beach provides unobstructed views of the Puget Sound and opportunities for sea-life study. The sandy beach at the park is a relaxing beach getaway near the cities of Seattle, Tacoma and Federal Way.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/496/Dash-Point",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.4071, 47.31779",
+		"googleAddress": null,
+		"streetAddress": "5700 SW Dash Point Road",
+		"city": "Federal Way",
+		"region": "Washington",
+		"regionCode": "98023",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483624,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Deception Pass",
+				"fullName": "Deception Pass State Park",
+				"description": "Deception Pass State Park spreads over 4,134 acres, a marine and camping park with 77,000 feet of saltwater shoreline and 33,900 feet of freshwater shoreline on three lakes. The park is actually located on two islands — Fidalgo to the north and Whidbey to the south. The Canoe Pass and Deception Pass bridges connect the two islands, creating a gateway for exploration.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/497/Deception-Pass",
+		"faxNumber": "",
+		"gpsCoordinates": "48.397530, -122.645880",
+		"googleAddress": null,
+		"streetAddress": "41229 State Route 20",
+		"city": "Oak Harbor",
+		"region": "Washington",
+		"regionCode": "98277",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483623,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Doe Island",
+				"fullName": "Doe Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7876, 48.6324",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483622,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Dosewallips",
+				"fullName": "Dosewallips State Park",
+				"description": "Dosewallips State Park is a 1039-acre, year-round camping park with 5 miles of shoreline on Hood Canal and the Dosewallips River. The park’s moss-carpeted forest and glacial river slope down to a shell-strewn delta on Hood Canal, a delight for clamdiggers, anglers, boaters, birders and beach explorers. The park features riverside campsites, cabins and five-person platform tents.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/499/Dosewallips",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9002, 47.68555",
+		"googleAddress": null,
+		"streetAddress": "306996 Highway 101",
+		"city": "Brinnon",
+		"region": "Washington",
+		"regionCode": "98320",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483522,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Doug's Beach",
+				"fullName": "Doug's Beach",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.235, 45.6781",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483621,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Dry Falls IC",
+				"fullName": "Dry Falls State Park",
+				"description": "EMAIL: dry.falls@parks.wa.gov",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "P.O. Box Drawer K",
+		"city": "Brinnon",
+		"region": "Washington",
+		"regionCode": "98320",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483521,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "EA Region Office",
+				"fullName": "EA Region Office",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.2865, 47.41613",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483467,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Ebey's Landing",
+				"fullName": "Ebey's Landing",
+				"description": "Sales-only location of Fort Casey ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "Ebey's Landing Rd",
+		"region": "Washington",
+		"regionCode": "98239",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483620,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Federation Forest",
+				"fullName": "Federation Forest State Park",
+				"description": "Federation Forest is a day-use park with 600 acres of old-growth Douglas-fir trees, mature Western hemlock, Sitka spruce and Western Red cedar. Its short, flat interpretive trails make the park an ideal destination for families with young children. A native plant garden surrounds the park’s interpretive center, named for Catherine T. Montgomery. The noted backpacker, teacher and conservationist is credited with being the first to envision the Pacific Crest Trail, back in 1926.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/502/Federation-Forest",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.6892, 47.15332",
+		"googleAddress": null,
+		"streetAddress": "49201 Highway 410 E",
+		"city": "Enumclaw",
+		"region": "Washington",
+		"regionCode": "98022",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483619,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fields Spring",
+				"fullName": "Fields Spring State Park",
+				"description": "Fields Spring State Park is an 825-acre forested camping park in the Blue mountains of southeastern Washington. Puffer Butte and its surroundings blossom with color year-round, from the wildflower-sprinkled hills of spring to the russet and sapphire mountains of summer. Winter brings powder and sparkles, delighting snowshoers and cross-country skiers.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/503/Fields-Spring",
+		"faxNumber": "",
+		"gpsCoordinates": "-117.1688, 46.08726",
+		"googleAddress": null,
+		"streetAddress": "992 Park Road",
+		"city": "Anatone",
+		"region": "Washington",
+		"regionCode": "99401",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483618,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Flaming Geyser",
+				"fullName": "Flaming Geyser State Park",
+				"description": "Flaming Geyser State Park is a 503-acre day-use park with more than 3 miles of freshwater shoreline on the Green River. The park is centered around a unique geological feature, a “flaming geyser,” or cluster of once-active methane seeps. The flame no longer burns because of the depletion of its methane source. But the history of the flame, told in interpretive panels at the location, will pique park goers’ curiosity about the living  nature of planet Earth.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/504/Flaming-Geyser",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.038, 47.27856",
+		"googleAddress": null,
+		"streetAddress": "23700 SE Flaming Geyser Road",
+		"city": "Auburn",
+		"region": "Washington",
+		"regionCode": "98092",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483520,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Forks of the Sky",
+				"fullName": "Forks of the Sky",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.6558, 47.8369",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483617,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Casey",
+				"fullName": "Fort Casey State Park",
+				"description": "Fort Casey Historical State Park is a 998-acre marine camping park with 10,810 feet of saltwater shoreline on Puget Sound (Admiralty Inlet); it includes Keystone Spit, a 2-mile stretch of land separating Admiralty Inlet and Crocket Lake. Fort Casey, Fort Worden and Fort Flagler together were known as the “Triangle of Fire,” a trio of strategically placed fortifications defending the entrance to the Puget Sound at the turn of the 20th Century.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/505/Fort-Casey",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6782, 48.16386",
+		"googleAddress": null,
+		"streetAddress": "1280 Engle Rd",
+		"city": "Coupeville",
+		"region": "Washington",
+		"regionCode": "98239",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483537,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Columbia",
+				"fullName": "Fort Columbia State Park",
+				"description": "The park offers a self-guided interpretive historic walk with information on various fort features and site history. Interpretive panels near the gun batteries include historic photos and blueprints. The Interpretive Center focuses on Fort Columbia's history, including the topics of early exploration, fur trade and westward settlement. A World War II gun emplacement, Battery 246 at Fort Columbia, served as a Washington State Department of Civil Defense Emergency Operating Center from 1960 to 1970. Tours at no charge are offered during July and August, Friday through Sunday, from 11:00 am - 4:00 pm. Tours are provided on a first-come, first-served basis, with a capacity of 10 per tour. Tours are offered at the beginning of the hour and the half-hour, with the last tour starting at 3:30 pm. For additional information, please call 360-642-3029.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.9232, 46.2538",
+		"googleAddress": null,
+		"streetAddress": "475 State Route 101",
+		"city": "Chinook",
+		"region": "Washington",
+		"regionCode": "98614",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483616,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Ebey",
+				"fullName": "Fort Ebey State Park",
+				"description": "Fort Ebey State Park is a 649-acre camping park on Whidbey Island. you’ll find 25 miles of mixed-use walking and bike trails, and 3 miles of bike-only trails. The bluff trail overlooks Admiralty Inlet and offers peek-a-boo views of Point Wilson Lighthouse across the bay. Douglas-fir and hemlock provide shade along forested trails sprinkled with pink big-leaf rhododendrons in season.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/507/Fort-Ebey",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7584, 48.22462",
+		"googleAddress": null,
+		"streetAddress": "400 Hill Valley Drive",
+		"city": "Coupeville",
+		"region": "Washington",
+		"regionCode": "98239",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483615,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Flagler",
+				"fullName": "Fort Flagler State Park",
+				"description": "Fort Flagler Historical State Park is a 1,454-acre marine camping park surrounded on three sides by 19,100 feet of saltwater shoreline. The group of forts once known as the “Triangle of Fire” (made up of Fort Flagler, Fort Worden and Fort Casey) is a must-see for military, armament and maritime enthusiasts. Fort Flagler’s off-the-beaten track location and its wide, manicured former parade lawns make it a winning destination.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/508/Fort-Flagler",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7016, 48.08586",
+		"googleAddress": null,
+		"streetAddress": "10541 Flagler Road",
+		"city": "Nordland",
+		"region": "Washington",
+		"regionCode": "98358",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483614,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Simcoe",
+				"fullName": "Fort Simcoe",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.8362, 46.34492",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483613,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Townsend",
+				"fullName": "Fort Townsend State Park",
+				"description": "Fort Townsend is a 414-acre marine camping park with 3,960 feet of saltwater shoreline on Port Townsend Bay. The forested park has a rich history in the armed forces, dating from pioneer days. Military buffs, walk the parade lawn and find interpretive plaques lining the former Officers’ Row. Explore a historic torpedo tower that held state-of-the-art technology during World War II (and is now part of the group campground).",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/510/Fort-Townsend",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7945, 48.07805",
+		"googleAddress": null,
+		"streetAddress": "1370 Old Fort Townsend Rd",
+		"city": "Port Townsend",
+		"region": "Washington",
+		"regionCode": "98368",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483611,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Ginkgo IC",
+				"fullName": "Ginkgo IC",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.9909, 46.93697",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483536,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Goldendale Observatory",
+				"fullName": "Goldendale Observatory State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.8161, 45.83823",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483610,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Grayland Beach",
+				"fullName": "Grayland Beach State Park",
+				"description": "Grayland Beach State Park is a 412-acre, year-round, marine camping park with 7,449 feet of spectacular ocean frontage, just south of the Town of Grayland. The park attracts kite flyers, observers, and people wanting a day at the beach. The park offers 55 full-hookup campsites, 16 yurts, four standard sites and four primitive tent sites within walking distance of the ocean.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/515/Grayland-Beach",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.0915, 46.79419",
+		"googleAddress": null,
+		"streetAddress": "PO Box 635, 925 Cranberry Beach Road",
+		"city": "Grayland",
+		"region": "Washington",
+		"regionCode": "98547",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483609,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Griffiths-Priday",
+				"fullName": "Griffiths-Priday State Park",
+				"description": "Griffiths-Priday State Park is a 364-acre marine day-use park with 8,316 feet of saltwater shoreline on the Pacific Ocean, and 9,950 feet of freshwater shoreline on the Copalis River. Griffiths-Priday is not far from prime camping at Ocean City State Park or Pacific Beach State Park. ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1773, 47.11418",
+		"googleAddress": null,
+		"streetAddress": "30 Benner Gap Road",
+		"city": "Copalis Beach",
+		"region": "Washington",
+		"regionCode": "98535",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483468,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Hartstine Island",
+				"fullName": "Hartstine Island",
+				"description": "Satellite location of Jarrell Cove",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": null,
+		"regionCode": "",
+		"country": null,
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483608,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Ike Kinswa",
+				"fullName": "Ike Kinswa State Park",
+				"description": "Ike Kinswa State Park is a 421-acre camping park with 46,000 feet of freshwater shoreline on the north side of Mayfield Lake. In addition to its excellent boating, fishing and swimming options, the park offers short hiking trails, birding, wildlife viewing and two horseshoe pits.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/519/Ike-Kinswa",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5298, 46.55534",
+		"googleAddress": null,
+		"streetAddress": "873 Highway 122",
+		"city": "Silver Creek",
+		"region": "Washington",
+		"regionCode": "98585",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483517,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Information Center/Front Desk",
+				"fullName": "Information Center/Front Desk",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483605,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "James Island",
+				"fullName": "James Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7762, 48.51271",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483603,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Joemma Beach",
+				"fullName": "Joemma Beach",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8014, 47.22467",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483602,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Joseph Whidbey",
+				"fullName": "Joseph Whidbey",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7129, 48.30783",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483601,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Kanaskat-Palmer",
+				"fullName": "Kanaskat-Palmer State Park",
+				"description": "Kanaskat-Palmer State Park is a 320-acre camping park on a low, forested plateau, with 2 miles of shoreline on the Green River. Boat and raft launching is by hand only. River rafting and kayaking down the Green River Gorge is for expert-level enthusiasts only.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/527/Kanaskat-Palmer",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.8987, 47.31198",
+		"googleAddress": null,
+		"streetAddress": "32101 Kanaskat-Cumberland Road",
+		"city": "Ravensdale",
+		"region": "Washington",
+		"regionCode": "98051",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483515,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Kinney Point",
+				"fullName": "Kinney Point",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6876, 48.00886",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483600,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Kitsap Memorial",
+				"fullName": "Kitsap Memorial State Park",
+				"description": "Kitsap Memorial State Park is a 58-acre camping park with 1,797 feet of saltwater shoreline. The park offers activities that include abundant fishing and two playing fields for Frisbee, kite-flying and croquet. The park’s homey log hall hosts all types of weddings in summer, and the venue is often festooned with colors and themes.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/529/Kitsap-Memorial",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6444, 47.81642",
+		"googleAddress": null,
+		"streetAddress": "202 NE Park Street",
+		"city": "Poulsbo",
+		"region": "Washington",
+		"regionCode": "98370",
+		"country": "USA",
+		"phoneNumber": "360-779-3205"
+	},
+	{
+		"resourceLocationId": -2147483514,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Klickitat Trail",
+				"fullName": "Klickitat Trail",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483534,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Kopachuck",
+				"fullName": "Kopachuck State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6797, 47.30815",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483599,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Chelan",
+				"fullName": "Lake Chelan State Park",
+				"description": "Lake Chelan State Park is a 127-acre camping park on the forested south shore of Lake Chelan. The park has 6,000 feet of shoreline and the beach is accessible by stairs. The 50.5-mile lake, with a depth of 1,486 feet, draws boaters, sailors, anglers, water skiers and windsurfers and seasonal residents. The area features some of the finest hiking trails in Washington, and adventurous hikers make the park their base from which to explore the North Cascades.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/531/Lake-Chelan",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.2004, 47.87371",
+		"googleAddress": null,
+		"streetAddress": "7544 S Lakeshore Road",
+		"city": "Chelan",
+		"region": "Washington",
+		"regionCode": "98816-9755",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483598,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Easton",
+				"fullName": "Lake Easton State Park",
+				"description": "Lake Easton State Park is a forested, 516-acre camping park with 24,000 feet of freshwater access on the shores of Lake Easton and mid-state access to the Palouse to Cascade State Park Trail, a Millennium Legacy Trail in the Cascade Mountain foothills. Activity is the name of the game at Lake Easton, so bring your bikes, kayaks, paddleboards, fishing poles, swimsuits and hiking boots. During the winter, cross-country skiers, snowmobilers and dogsledders use miles of groomed trails, and families throw snowballs and build snow structures to their hearts’ content.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/532/Lake-Easton",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.1847, 47.2451",
+		"googleAddress": null,
+		"streetAddress": "150 Lake Easton State Park Road",
+		"city": "Easton",
+		"region": "Washington",
+		"regionCode": "98925",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483597,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Isabella",
+				"fullName": "Lake Isabella",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.1102, 47.16829",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483596,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Sammamish",
+				"fullName": "Lake Sammamish State Park",
+				"description": "Lake Sammamish State Park is a 510-acre day-use park with 6,858 feet of waterfront on Lake Sammamish. The area around the lake carries cultural significance as a gathering place for at least four Native American tribes. Lake Sammamish hosts community events year-round. They include nature, birding and dog walks; stewardship projects; paddling and cycling events; kids’ obstacle courses; summer concerts; holiday boat parades; and the annual summer Parkadilly Fair.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/533/Lake-Sammamish",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.0677, 47.5519",
+		"googleAddress": null,
+		"streetAddress": "2000 NW Sammamish Rd.",
+		"city": "Issaquah",
+		"region": "Washington",
+		"regionCode": "98027",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483595,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Sylvia",
+				"fullName": "Lake Sylvia State Park",
+				"description": "Lake Sylvia State Park is a wooded 252-acre camping park with 15,000 feet of freshwater shoreline. Set in a former logging camp above the historic town of Montesano, park life revolves around a large swimming and fishing lake that draws families to its shores all summer long, and the rustic charm of the park makes for excellent day and group camping trips.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/534/Lake-Sylvia",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.6012, 46.9916",
+		"googleAddress": null,
+		"streetAddress": "1812 Lake Sylvia Road",
+		"city": "Montesano",
+		"region": "Washington",
+		"regionCode": "98563",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483594,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lake Wenatchee",
+				"fullName": "Lake Wenatchee State Park",
+				"description": "Lake Wenatchee State Park is a 489-acre camping park with 12,623 feet of waterfront on glacier-fed Lake Wenatchee and the Wenatchee River. The lake is a popular destination for boaters and windsurfers. Beginning kayakers and standup paddlers can rent boats and boards at the lake and navigate the calmer waters near the shore. Located 16 miles from the Bavarian theme town of Leavenworth, the park is a natural wildlife area, and visitors should be aware of the presence of bears and other natural dangers. NOTE: Operating and Reservable dates may vary due to snow pack. Contact park at 509-763-3101.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/535/Lake-Wenatchee",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.7134, 47.80696",
+		"googleAddress": null,
+		"streetAddress": "21588 State Route 207",
+		"city": "Leavenworth",
+		"region": "Washington",
+		"regionCode": "98826",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483593,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Larrabee",
+				"fullName": "Larrabee State Park",
+				"description": "Larrabee is a 2,748-acre camping park that has 8,100 feet of saltwater shoreline on Samish Bay. Though the shore is the main draw at Larrabee, freshwater Fragrance and Lost lakes provide excellent bass and trout fishing. Hiking and mountain bike trails wind through a forest of Douglas-fir and salal. Train-spotting is also part of the Larrabee experience. The Burlington Northern Santa Fe Railroad and Amtrak run trains up to 16 times a day (including at night) on the Burlington Northern track by the beach. This can be a noisy proposition for light sleepers but great fun for train buffs and kids.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/536/Larrabee",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.4901, 48.65313",
+		"googleAddress": null,
+		"streetAddress": "245 Chuckanut Drive",
+		"city": "Bellingham",
+		"region": "Washington",
+		"regionCode": "98229",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483511,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lewis & Clark IC",
+				"fullName": "Lewis & Clark IC",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483592,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lewis and Clark",
+				"fullName": "Lewis and Clark State Park",
+				"description": "Lewis and Clark State Park is a 616-acre camping park in a stand of old-growth forest. This cool forested space east of I-5 and south of Chehalis offers hiking and horseback riding through a rare stand of old-growth trees on the historic north spur of the Oregon Trail. The park provides an all-American camping experience, with fire circles, an amphitheater and horseshoe pits.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/538/Lewis-Clark",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8133, 46.5225",
+		"googleAddress": null,
+		"streetAddress": "4583 Jackson Hwy",
+		"city": "Winlock",
+		"region": "Washington",
+		"regionCode": "98596",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483591,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lewis and Clark Trail",
+				"fullName": "Lewis and Clark Trail State Park",
+				"description": "Lewis and Clark Trail State Park is a 37-acre camping park with 1,333 feet of freshwater shoreline on the Touchet River. Identify long-needled ponderosa pine, alder, maple and cottonwood trees and do some birdwatching (for common mergansers, red-tailed hawks and orange-crowned warblers, among others).",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/539/Lewis-Clark-Trail",
+		"faxNumber": "",
+		"gpsCoordinates": "-118.0719656, 46.28721553",
+		"googleAddress": null,
+		"streetAddress": "36149 Hwy 12",
+		"city": "Dayton",
+		"region": "Washington",
+		"regionCode": "99328",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483477,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lime Kiln Point",
+				"fullName": "Lime Kiln Point State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.1491, 48.51447",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483590,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lincoln Rock",
+				"fullName": "Lincoln Rock State Park",
+				"description": "Lincoln Rock State Park is an 86-acre camping park on the east side of Lake Entiat, which was created by the Rocky Reach Dam. The park is home to the Rocky Reach Trail, a paved, mixed-use ADA-accessible trail. The Rocky Reach connects to the Apple Capital Loop Trail, a paved walk/bike path that stretches southwest to Wenatchee Confluence State Park, encircles the Wenatchee and East Wenatchee riverfronts and extends south to Rock Island Hydro Park. Altogether, these trails offer 20 miles of walking, skateboarding and bicycling fun.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/541/Lincoln-Rock",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.2834, 47.53425",
+		"googleAddress": null,
+		"streetAddress": "13253 SR 2",
+		"city": "East Wenatchee",
+		"region": "Washington",
+		"regionCode": "98802-9566",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483532,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Lyons Ferry",
+				"fullName": "Lyons Ferry State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-118.2203, 46.59512",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483587,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Matia Island",
+				"fullName": "Matia Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8419, 48.74826",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483508,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Miller Peninsula",
+				"fullName": "Miller Peninsula",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9471, 48.06517",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483586,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Millersylvania",
+				"fullName": "Millersylvania State Park",
+				"description": "Millersylvania State Park is an 842-acre camping park with 3,300 feet of freshwater shoreline on Deep Lake. The park has two swimming beaches, miles of forested hiking and biking trails, boat launches, non-motorized watercraft rentals (kayaks, paddleboards, pedal boats) and abundant fishing. The state capital is a few miles north of the park.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/546/Millersylvania",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.906, 46.90971",
+		"googleAddress": null,
+		"streetAddress": "12245 Tilley Road South",
+		"city": "Olympia",
+		"region": "Washington",
+		"regionCode": "98512",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483585,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Moran",
+				"fullName": "Moran State Park",
+				"description": "Moran State Park is 5,252-acres and offers abundant camping; 124 standard and 6 primitive campsites as well as one group camp and one day use shelter. The park has five freshwater lakes for swimming and non-motorized boating and 38 miles of hiking, mountain biking and equestrian trails. Mount Constitution stands 2,409 feet above sea level and has expansive views of the San Juan archipelago. Climb the historic stone tower on the mountaintop for an even grander view.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/547/Moran",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8625, 48.65768",
+		"googleAddress": null,
+		"streetAddress": "3572 Olga Road",
+		"city": "Olga",
+		"region": "Washington",
+		"regionCode": "98279",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483507,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Mount Pilchuk",
+				"fullName": "Mount Pilchuk",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.8146, 48.06607",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483584,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Mount Spokane",
+				"fullName": "Mount Spokane State Park",
+				"description": "Mount Spokane State Park is a 13,919-acre first come first served camping park in the Selkirk Mountains with 100 miles of trails and panoramic views from the summit of 5,883-foot Mount Spokane. In winter, the park receives 300 inches of snow.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/549/Mount-Spokane",
+		"faxNumber": "",
+		"gpsCoordinates": "-117.1329, 47.88358",
+		"googleAddress": null,
+		"streetAddress": "26107 N. Mt. Spokane Park Dr.",
+		"city": "Mead",
+		"region": "Washington",
+		"regionCode": "99021",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483506,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Mystery Bay",
+				"fullName": "Mystery Bay",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6942, 48.05996",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483466,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Nisqually",
+				"fullName": "Nisqually State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": null,
+		"regionCode": "",
+		"country": null,
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483583,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Nolte",
+				"fullName": "Nolte State Park",
+				"description": "Nolte State Park is a 111-acre day-use park with 7,174 feet of freshwater shoreline. Located 10 minutes from Enumclaw and a half hour from Auburn and Federal Way, this charming day-use park sits on placid, tree-ringed Deep Lake near the Green River Gorge. The lake entices swimmers, paddlers and anglers, and a mile-long path around the lake offers peaceful activities for walkers, photographers and birders.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/552/Nolte",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.9419, 47.26817",
+		"googleAddress": null,
+		"streetAddress": "36921 Veazie Cumberland Road",
+		"city": "Enumclaw",
+		"region": "Washington",
+		"regionCode": "98022",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483505,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "NW Region Office",
+				"fullName": "NW Region Office",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.3319, 48.47631",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483582,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Ocean City",
+				"fullName": "Ocean City State Park",
+				"description": "Ocean City State Park is a year-round, 170-acre camping park, featuring ocean beach, dunes and dense thickets of shore pine. The park backs North Bay Natural Preserve, a shallow bay with a network of wetland streams and mudflats that bring birds and wildlife to the sky and land. Just down the road, lively Ocean Shores presents shopping and dining opportunities, and an 18-hole golf course.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/554/Ocean-City",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1566, 47.03147",
+		"googleAddress": null,
+		"streetAddress": "148 State Route 115",
+		"city": "Hoquiam",
+		"region": "Washington",
+		"regionCode": "98550",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483581,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Ocean City OBA",
+				"fullName": "Ocean City OBA",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1696, 47.07092",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483580,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Olallie",
+				"fullName": "Olallie",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.6685, 47.44106",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483579,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Olmstead Place",
+				"fullName": "Olmstead Place",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.4672, 46.97902",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483578,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Oyehut OBA",
+				"fullName": "Oyehut OBA",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1652, 47.01739",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483577,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Pacific Beach",
+				"fullName": "Pacific Beach State Park",
+				"description": "Pacific Beach State Park is a 10-acre camping park with 2,300 feet of ocean shoreline north of Aberdeen. Take a walk, picnic, or fly a kite on a flat sandy beach. Make a small fire on the beach (be sure it’s more than 100 feet from vegetation) to roast up some s’mores.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/557/Pacific-Beach",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.2022, 47.20622",
+		"googleAddress": null,
+		"streetAddress": "49 2nd St.",
+		"city": "Pacific Beach",
+		"region": "Washington",
+		"regionCode": "98571",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483503,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Palouse Falls",
+				"fullName": "Palouse Falls",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-118.2288, 46.6641",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483606,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Palouse to Cascades",
+				"fullName": "Palouse to Cascades",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483576,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Paradise Point",
+				"fullName": "Paradise Point State Park",
+				"description": "Paradise Point State Park is an 88-acre camping park with 6,180 feet of freshwater shoreline located 15 miles north of Vancouver next to the interstate. The park offers unguarded swimming on the Lewis River and campsites in open grass or wooded areas as well as a small apple orchard.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/560/Paradise-Point",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7059, 45.86595",
+		"googleAddress": null,
+		"streetAddress": "33914 N.W. Paradise Park RD",
+		"city": "Ridgefield",
+		"region": "Washington",
+		"regionCode": "98642",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483575,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Patos Island",
+				"fullName": "Patos Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9718, 48.78925",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483574,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Peace Arch",
+				"fullName": "Peace Arch State Park",
+				"description": "Peace Arch Historical State Park is a 20-acre day-use park with beautiful views and lush gardens that lies on the boundary between the United States and Canada. The 67-foot concrete arch, which is listed on the National Register of Historic Places, was constructed to honor the centennial of the treaties resulting from the War of 1812. These agreements between the U.S. and Britain established a peaceful, undefended border between the U.S. and Canada.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/562/Peace-Arch",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7516, 49.00075",
+		"googleAddress": null,
+		"streetAddress": "19 A Street",
+		"city": "Blaine",
+		"region": "Washington",
+		"regionCode": "98230",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483573,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Pearrygin Lake",
+				"fullName": "Pearrygin Lake State Park",
+				"description": "Pearrygin Lake State Park is a 1,185-acre camping park in north central Washington, near the Western-themed town of Winthrop. The park offers 11,000 feet of waterfront on Pearrygin Lake and 6.5 miles of hiking trails. After Nov. 1, the park remains a haven for winter recreationists, and fat-tire snow bicycling.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/563/Pearrygin-Lake",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.1583, 48.49571",
+		"googleAddress": null,
+		"streetAddress": "561 Bear Creek Road",
+		"city": "Winthrop",
+		"region": "Washington",
+		"regionCode": "98862",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483572,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Penrose Point",
+				"fullName": "Penrose Point State Park",
+				"description": "Penrose Point State Park is a richly forested, 165-acre marine and camping park on the shores of Puget Sound. The park has nearly 2 miles of saltwater frontage on Mayo Cove and Carr Inlet. Trails are rife with Douglas-fir, western red cedar, red alder, Pacific madrone and big-leaf maple and highlight an abundant understory of ferns, huckleberry and trillium.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/564/Penrose-Point",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7484, 47.25354",
+		"googleAddress": null,
+		"streetAddress": "321 158th Ave KPS",
+		"city": "Lakebay",
+		"region": "Washington",
+		"regionCode": "98349",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483502,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Peshastin Pinnacles",
+				"fullName": "Peshastin Pinnacles",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.5205, 47.53865",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483501,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Pleasant Harbor",
+				"fullName": "Pleasant Harbor",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9145, 47.66497",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483571,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Possession Point",
+				"fullName": "Possession Point",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.3766, 47.90728",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483570,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Potholes",
+				"fullName": "Potholes State Park",
+				"description": "Potholes State Park is a 775-acre camping park with 6,000 feet of freshwater shoreline on O'Sullivan Reservoir that welcomes boaters, fishers, and swimmers. This body of water is often confused with the Pothole Lakes themselves, which are a 30- to 45-minute drive from the park. The terrain is desert with freshwater marshes.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/568/Potholes",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.3486, 46.97079",
+		"googleAddress": null,
+		"streetAddress": "6762 Highway 262 East",
+		"city": "Othello",
+		"region": "Washington",
+		"regionCode": "99344",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483569,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Potlatch",
+				"fullName": "Potlatch State Park",
+				"description": "Potlatch State Park is a 125-acre camping park with 5,700 feet of saltwater shoreline on Hood Canal. Before you head to Potlatch, be sure to pack pails, shovels, duck-boots, crab pots, boats and the right licenses for shellfish harvesting. The park is also a favorite with divers and kayakers.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/569/Potlatch",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.1579, 47.36226",
+		"googleAddress": null,
+		"streetAddress": "21020 Hway 101 N",
+		"city": "Shelton",
+		"region": "Washington",
+		"regionCode": "98584",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483568,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Rainbow Falls",
+				"fullName": "Rainbow Falls State Park",
+				"description": "Rainbow Falls State Park is a 139-acre camping park with 3,400 feet of freshwater shoreline on the main stem of the Chehalis River. The park is a walker’s paradise. Miles of loamy trails wind through the forest and along the river, to a small cascade that throws rainbows of spray at the sun.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/570/Rainbow-Falls",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.2341, 46.63442",
+		"googleAddress": null,
+		"streetAddress": "633 Leudinghaus Rd",
+		"city": "Chehalis",
+		"region": "Washington",
+		"regionCode": "98532-9304",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483567,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Rasar",
+				"fullName": "Rasar State Park",
+				"description": "Rasar State Park is a 169-acre camping park with 4,000 feet of freshwater shoreline on the Skagit River. Wildlife observation, especially eagle watching, can be excellent, particularly in early fall and winter.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/571/Rasar",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.9033, 48.51847",
+		"googleAddress": null,
+		"streetAddress": "38730 Cape Horn Road",
+		"city": "Concrete",
+		"region": "Washington",
+		"regionCode": "98237",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483500,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Brooks Memorial",
+				"fullName": "Retreat Center - Brooks Memorial",
+				"description": "Brooks Memorial State Park is a 700-acre, seasonal camping park located between the south Yakima Valley and the Simcoe Mountains 15 miles north of Goldendale off Highway 97. You can gaze at the stars from your campsite or head to Goldendale Observatory State Park, just 20 minutes away, for some of the best night sky viewing in the Pacific Northwest.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/372/Brooks-Memorial",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "2465 Highway 97",
+		"city": "Goldendale",
+		"region": "Washington",
+		"regionCode": "98620",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483487,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Camp Delany",
+				"fullName": "Retreat Center - Camp Delany",
+				"description": "Sun Lakes-Dry Falls State Park is a 4,027-acre camping park with 73,640 feet of freshwater shoreline at the foot of Dry Falls between Soap Lake and Coulee City. Carved by Ice Age floods more than 13,000 years ago, the former waterfall was once four times the size of Niagara Falls. Today, the 400-foot-high, 3.5-mile-wide cliff overlooks a big sky and a landscape of deep gorges and dark, reflective lakes. The park also offers bass, perch, and trout fishing, hiking trails, and nine hole and miniature golf.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/366/Camp-Delany",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "34875 Park Lake Road NE",
+		"city": "Coulee City",
+		"region": "Washington",
+		"regionCode": "99115",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483472,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Camp Moran",
+				"fullName": "Retreat Center - Camp Moran",
+				"description": "Moran State Park is 5,252-acres and offers abundant camping (151 sites), five freshwater lakes for swimming and non-motorized boating and more than 30 miles of hiking, bicycling, mountain biking and equestrian trails. Mount Constitution stands 2,409 feet above sea level and has expansive views of the San Juan archipelago. Climb the historic stone tower on the mountaintop for an even grander view.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/361/Camp-Moran",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "3572 Olga Road",
+		"city": "Olga",
+		"region": "Washington",
+		"regionCode": "98279",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483473,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Camp Wooten",
+				"fullName": "Retreat Center - Camp Wooten",
+				"description": "A camp with a colorful past, Washington State Parks’ largest retreat center, Camp Wooten, sits in the Blue Mountains of southeastern Washington along the threadlike Tucannon River. Today’s Camp Wooten retains the feel of both a game range and a CCC-era camp; it offers a dining hall with large commercial kitchen, a recreation hall, sleeping cabins, restrooms with showers, a lake for canoeing, an archery range, a mixed-use sports court with loaner nets and an indoor swimming pool. There are sleeping accommodations for up to 200 people, and with park manager approval, tents and RVs may be allowed. ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/368/Camp-Wooten",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "2711 Tucannon Rd",
+		"city": "Pomeroy",
+		"region": "Washington",
+		"regionCode": "99347",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483498,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Cornet Bay",
+				"fullName": "Retreat Center - Cornet Bay",
+				"description": "Deception Pass State Park spreads over 4,134 acres, a marine and camping park with 77,000 feet of saltwater shoreline and 33,900 feet of freshwater shoreline on three lakes. The park is actually located on two islands — Fidalgo to the north and Whidbey to the south. The Canoe Pass and Deception Pass bridges connect the two islands, creating a gateway for exploration.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/362/Cornet-Bay",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "400 Cornet Bay Road",
+		"city": "Oak Harbor",
+		"region": "Washington",
+		"regionCode": "98277",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483485,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Fields Spring",
+				"fullName": "Retreat Center - Fields Spring",
+				"description": "Fields Spring State Park is an 825-acre forested camping park in the Blue mountains of southeastern Washington. Puffer Butte and its surroundings blossom with color year-round, from the wildflower-sprinkled hills of spring to the russet and sapphire mountains of summer. Winter brings powder and sparkles, delighting snowshoers and cross-country skiers.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/370/Puffer-Butte",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "992 Park Road",
+		"city": "Anatone",
+		"region": "Washington",
+		"regionCode": "99401",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483486,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Fort Flagler",
+				"fullName": "Retreat Center - Fort Flagler",
+				"description": "Fort Flagler Historical State Park is a 1,454-acre marine camping park surrounded on three sides by 19,100 feet of saltwater shoreline. The group of forts once known as the “Triangle of Fire” (made up of Fort Flagler, Fort Worden and Fort Casey) is a must-see for military, armament and maritime enthusiasts. Fort Flagler’s off-the-beaten track location and its wide, manicured former parade lawns make it a winning destination.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/364/Fort-Flagler",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "10541 Flagler Road",
+		"city": "Nordland",
+		"region": "Washington",
+		"regionCode": "98358",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483497,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Lewis and Clark",
+				"fullName": "Retreat Center - Lewis and Clark",
+				"description": "Lewis and Clark State Park is a 616-acre camping park in a stand of old-growth forest. This cool forested space east of I-5 and south of Chehalis offers hiking and horseback riding through a rare stand of old-growth trees on the historic north spur of the Oregon Trail. The park provides an all-American camping experience, with fire circles, an amphitheater and horseshoe pits.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/369/Lewis-Clark",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "4583 Jackson Hwy",
+		"city": "Winlock",
+		"region": "Washington",
+		"regionCode": "98596",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483496,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Millersylvania",
+				"fullName": "Retreat Center - Millersylvania",
+				"description": "Millersylvania State Park is an 842-acre camping park with 3,300 feet of freshwater shoreline on Deep Lake. The park has two swimming beaches, miles of forested hiking and biking trails, boat launches, non-motorized watercraft rentals (kayaks, paddleboards, pedal boats) and abundant fishing. The state capital is a few miles north of the park.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/367/Millersylvania",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "12245 Tilley Road South",
+		"city": "Olympia",
+		"region": "Washington",
+		"regionCode": "98512",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483499,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Retreat Center - Ramblewood",
+				"fullName": "Retreat Center - Ramblewood",
+				"description": "Sequim Bay State Park is a year-round, 92-acre marine camping park with 4,909 feet of saltwater coast in the Sequim \"rain shadow,\" just inside Puget Sound on the Olympic Peninsula. The park hosts a stretch of the Olympic Discovery Trail (ODT), a 120-mile, multi-use recreation trail that extends from Port Townsend west to the Pacific Ocean.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "http://parks.state.wa.us/365/Camp-Ramblewood",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "269035 Highway 101",
+		"city": "Sequim",
+		"region": "Washington",
+		"regionCode": "98382",
+		"country": "USA",
+		"phoneNumber": "360-902-8600"
+	},
+	{
+		"resourceLocationId": -2147483566,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside - 9 Mile Recreation Area",
+				"fullName": "Riverside State Park - 9 Mile Recreation Area",
+				"description": "Riverside State Park occupies 12,000 acres along the Spokane and Little Spokane rivers just north of Spokane. With nearly 200,000 feet of shoreline, Riverside is the home to Ponderosa pines, lakes, marshes and a wide variety of wildlife. Off-road vehicle drivers have 600 acres of special terrain. The 40-mile, mixed-use Spokane River Centennial State Park Trail extends from Nine Mile Recreation Area east to the Idaho border.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/573/Riverside",
+		"faxNumber": "",
+		"gpsCoordinates": "47.79254833, -117.566903",
+		"googleAddress": null,
+		"streetAddress": "11226 W Charles Rd",
+		"city": "Nine Mile Falls",
+		"region": "Washington",
+		"regionCode": "99026",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483533,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside - Lake Spokane",
+				"fullName": "Riverside State Park - Lake Spokane",
+				"description": "Lake Spokane invites boaters, anglers and water sports fans. And, for those who equate vacation with relaxation, the campground offers solid family and camp chair time.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "47.838518, -117.762392",
+		"googleAddress": null,
+		"streetAddress": "7453 Hwy 291",
+		"city": "Tumtum",
+		"region": "Washington",
+		"regionCode": "99034",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483480,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside HQ",
+				"fullName": "Riverside HQ",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483469,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside ORV",
+				"fullName": "Riverside ORV",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483564,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Rockport",
+				"fullName": "Rockport State Park",
+				"description": "Rockport State Park is a 632-acre day-use park and provides an extraordinary example of old-growth forest. The park’s ancient trees, having never been logged, form a landscape and ecosystem seldom seen nowadays, a canopy of towering evergreens so dense that minimal sunlight shines through. Breathe in the crisp smell of conifers and feel the earth beneath your feet, then look up and marvel at the Rockport giants, some more than  250 feet tall. Check out the Discovery Center, which opens December to February, and ask about guided ranger walks. The park stands at the foot of the climbable Sauk Mountain, elevation 5,400 feet.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/574/Rockport",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.6156, 48.48763",
+		"googleAddress": null,
+		"streetAddress": "51905 State Route 20",
+		"city": "Rockport",
+		"region": "Washington",
+		"regionCode": "98283",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483563,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "S.Cle Elm Depot",
+				"fullName": "S.Cle Elm Depot",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483531,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Sacajawea",
+				"fullName": "Sacajawea State Park",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.0492, 46.20778",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483562,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Saddlebag Island",
+				"fullName": "Saddlebag Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5571, 48.53555",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483530,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Saint Edward",
+				"fullName": "Saint Edward State Park",
+				"description": "Saint Edward State Park is a 326-acre day-use park with 3,000 feet of freshwater shoreline on Lake Washington. Set on the eastern shore of Lake Washington, surrounded by low forest and lawns, Saint Edward’s Seminary is not hard to picture as it was in the 1930s, with hundreds of students in residence. These days, Saint Edward State Park bursts with modern life. Kids enjoy unstructured fun on the grass fields and playground equipment, kayakers cruise Lake Washington and hikers and mountain bikers take to the trails.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.2465, 47.73326",
+		"googleAddress": null,
+		"streetAddress": "14445 Juanita Dr NE",
+		"city": "Kenmore",
+		"region": "Washington",
+		"regionCode": "98028",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483561,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Saltwater",
+				"fullName": "Saltwater State Park",
+				"description": "Saltwater State Park is a 137-acre camping park featuring 1,445 feet of saltwater shoreline on Puget Sound, halfway between Tacoma and Seattle. The two cities jointly and literally buried a hatchet at the park during the 1926 park dedication as a symbol of the end of their mutual competition. The park is on the flight path of Sea-Tac International Airport and can be noisy at times, but it’s all part of the urban beach experience.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/578/Saltwater",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.321, 47.37473",
+		"googleAddress": null,
+		"streetAddress": "25205 8th Place S",
+		"city": "Des Moines",
+		"region": "Washington",
+		"regionCode": "98198",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483559,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Schafer",
+				"fullName": "Schafer State Park",
+				"description": "Schafer State Park is a 119-acre camping park on the Satsop River, midway between Olympia and the Pacific Ocean. The park’s impressive buildings are constructed of native stone. The park offers supreme fishing on the Satsop River, for steelhead, cutthroat trout and salmon. The river also offers calm, shallow wading spots and joyous inner-tube floats.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/580/Schafer",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.4665, 47.09783",
+		"googleAddress": null,
+		"streetAddress": "1365 W Schafer Park Road",
+		"city": "Elma",
+		"region": "Washington",
+		"regionCode": "98541",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483558,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Seaquest",
+				"fullName": "Seaquest State Park",
+				"description": "Seaquest is a 475-acre, year-round camping park. A pedestrian tunnel connects the lush, forested park with the Silver Lake Mount St. Helens Visitor Center across the road. Seasonal fishing, boating and swimming are available nearby.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/581/Seaquest",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8176, 46.29573",
+		"googleAddress": null,
+		"streetAddress": "3030 Spirit Lake Highway",
+		"city": "Castle Rock",
+		"region": "Washington",
+		"regionCode": "98611",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483557,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Sequim Bay",
+				"fullName": "Sequim Bay State Park",
+				"description": "Sequim Bay State Park is a year-round, 92-acre marine camping park with 4,909 feet of saltwater coast in the Sequim \"rain shadow,\" just inside Puget Sound on the Olympic Peninsula. The park hosts a stretch of the Olympic Discovery Trail (ODT), a 120-mile, multi-use recreation trail that extends from Port Townsend west to the Pacific Ocean.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/582/Sequim-Bay",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.0308, 48.0407",
+		"googleAddress": null,
+		"streetAddress": "269035 Highway 101",
+		"city": "Sequim",
+		"region": "Washington",
+		"regionCode": "98382",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483556,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Shine Tidelands",
+				"fullName": "Shine Tidelands",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6358, 47.86757",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483495,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Silver Lake Visitors Center",
+				"fullName": "Silver Lake Visitors Center",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483470,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "South Beach SCA",
+				"fullName": "South Beach SCA",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483555,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "South Whidbey",
+				"fullName": "South Whidbey State Park",
+				"description": "South Whidbey State Park is a 347-acre park with 4,500 feet of saltwater shoreline. This day-use park on the west side of Whidbey Island is a scenic drive away from Anacortes or a short ferry ride from Mukilteo. The park offers east-facing views of the Olympic Mountains and rare old-growth stands.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/585/South-Whidbey",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5909, 48.05625",
+		"googleAddress": null,
+		"streetAddress": "4128 S Smugglers Cove Rd",
+		"city": "Freeland",
+		"region": "Washington",
+		"regionCode": "98249",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483554,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Spencer Spit",
+				"fullName": "Spencer Spit State Park",
+				"description": "Spencer Spit State Park is a 200-acre marine and camping park on Lopez Island in the Strait of Juan de Fuca. The park has a reputation for excellent crabbing, clamming and car-top boating. One of the few auto-access state parks in the San Juan Islands, Spencer Spit provides dramatic, east-facing views of Decatur and Blakely islands and features a rare sand spit enclosed by a salt-chuck lagoon.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/687/Spencer-Spit",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8662, 48.53236",
+		"googleAddress": null,
+		"streetAddress": "521A Bakerview Road",
+		"city": "Lopez Island",
+		"region": "Washington",
+		"regionCode": "98261",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483494,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Spring Creek Hatchery",
+				"fullName": "Spring Creek Hatchery",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.5609, 45.72308",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483553,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Squak Mtn",
+				"fullName": "Squak Mtn",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.0549, 47.48062",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483529,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Squilchuck",
+				"fullName": "Squilchuck State Park",
+				"description": "Squilchuck State Park is a 249-acre park located 9 miles south of Wenatchee. Its high desert hills are covered with forests of fir and ponderosa pine. More than 10 miles of mountain bike trails fan out from a single group campground. Within minutes, you’ll find yourself careening around corners and pedaling into the hills, where wild bike rides await. Ride along Mission Ridge Road or out to the Wheeler Reservoir for a more rugged day.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.3713, 47.31454",
+		"googleAddress": null,
+		"streetAddress": "2805 Squilchuck Rd",
+		"city": "Wenatchee",
+		"region": "Washington",
+		"regionCode": "98801",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483552,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Steamboat Rock",
+				"fullName": "Steamboat Rock State Park",
+				"description": "Steamboat Rock State Park is a 5,043-acre camping park with 50,000 feet of freshwater shoreline at the north end of Banks Lake and a columnar, basaltic rock with a surface area of 600 acres. Three campground areas and a large day-use area are protected from winds by tall poplars.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/590/Steamboat-Rock",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.0924, 47.86843",
+		"googleAddress": null,
+		"streetAddress": "51052 Highway 155",
+		"city": "Electric City",
+		"region": "Washington",
+		"regionCode": "99123-0370",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483493,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Steptoe Butte",
+				"fullName": "Steptoe Butte",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-117.2828, 47.0351",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483475,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Stuart Island",
+				"fullName": "Stuart Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.199, 48.67711",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483528,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Sucia Island",
+				"fullName": "Sucia Island State Park",
+				"description": "Among the northernmost of the San Juan Islands, Sucia Island is accessible only by watercraft. Boaters venturing into its coves and harbors quickly discover why Sucia Island is considered the crown jewel in the state marine park system and a boating destination that’s world class. The park is 564 acres with 77,700 feet of shoreline and abundant camping and moorage. The main island and several smaller islands comprise the \"Sucia group.\" There are no services on this island, and fossil collecting is strictly prohibited in this and all Washington state parks. ",
+				"drivingDirections": "Sucia Island is located 2.5 miles north of Orcas Island in the San Juan Islands.",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/594/Sucia-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9125, 48.76305",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "Sucia Island",
+		"region": "Washington",
+		"regionCode": "98028",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483551,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Sun Lakes",
+				"fullName": "Sun Lakes State Park",
+				"description": "Sun Lakes-Dry Falls State Park is a 4,027-acre camping park with 73,640 feet of freshwater shoreline at the foot of Dry Falls between Soap Lake and Coulee City. Carved by Ice Age floods more than 13,000 years ago, the former waterfall was once four times the size of Niagara Falls. Today, the 400-foot-high, 3.5-mile-wide cliff overlooks a big sky and a landscape of deep gorges and dark, reflective lakes. The park also offers trout fishing, hiking trails, and nine hole and miniature golf.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/298/Sun-Lakes-Dry-Falls",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "34875 Park Lake Road NE",
+		"city": "Coulee City",
+		"region": "Washington",
+		"regionCode": "99115",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483492,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "SW Region Office",
+				"fullName": "SW Region Office",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483550,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Tolmie",
+				"fullName": "Tolmie State Park",
+				"description": "Tolmie State Park is a 105-acre marine day-use park with 1,800 feet of saltwater shoreline on Puget Sound. Set on a spit in a cove, it is remarkably close to Olympia, Tacoma and the communities in between. Backed by a forest, the park’s main draw is the beach, with calm waters for pint-sized waders. The area is filled with families on summer weekends, but it can be quiet during the week, and its shaded trails provide more than 3 miles of hiking. ",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/297/Tolmie",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.7729, 47.11936",
+		"googleAddress": null,
+		"streetAddress": "7730 61st Ave. N.E.",
+		"city": "Olympia",
+		"region": "Washington",
+		"regionCode": "98506",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483491,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Triton Cove",
+				"fullName": "Triton Cove",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9869, 47.60864",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483474,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Turn Island",
+				"fullName": "Turn Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9732, 48.53301",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483549,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Twanoh",
+				"fullName": "Twanoh State Park",
+				"description": "Twanoh State Park is a 182-acre marine camping park with 3,167 feet of saltwater shoreline on Hood Canal in South Puget Sound. The park is known for its warm saltwater swimming, scenic beauty, and abundant shellfish.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/294/Twanoh",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9746, 47.37754",
+		"googleAddress": null,
+		"streetAddress": "12190 E Highway 106",
+		"city": "Union",
+		"region": "Washington",
+		"regionCode": "98592",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483548,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Twenty-Five Mile Creek",
+				"fullName": "Twenty-Five Mile Creek State Park",
+				"description": "Twenty-Five Mile Creek State Park is a 235-acre inland waters camping park on the forested south shore of Lake Chelan. The park separates the mountains from the lake and is surrounded by extraordinary scenery. This  park has a modern marina nearly halfway along the 50.5-mile lake.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/293/Twenty-Five-Mile-Creek",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.2595, 47.99218",
+		"googleAddress": null,
+		"streetAddress": "20530 S Lakeshore Rd",
+		"city": "Chelan",
+		"region": "Washington",
+		"regionCode": "98816",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483547,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Twin Harbors",
+				"fullName": "Twin Harbors State Park",
+				"description": "Twin Harbors State Park is a 222-acre camping park on the Pacific coast, 4 miles south of Westport. The area offers nature study and seaside activity along the shore, as well as the chance to relax. The park’s beach trails take off through tunnels of shore pines and soon transition to sand dunes and dune grass.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/292/Twin-Harbors",
+		"faxNumber": "",
+		"gpsCoordinates": "-124.1082, 46.85614",
+		"googleAddress": null,
+		"streetAddress": "3120 State Route 105",
+		"city": "Westport",
+		"region": "Washington",
+		"regionCode": "98595",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483546,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Upright Channel",
+				"fullName": "Upright Channel",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483545,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Wallace Falls",
+				"fullName": "Wallace Falls State Park",
+				"description": "Wallace Falls State Park is a 1,380-acre camping park with shoreline on the Wallace River, Wallace Lake, Jay Lake and Shaw Lake. Located on the west side of the Cascades, the park features a 265-foot waterfall, old-growth coniferous forests and fast-moving rivers and streams. The area offers a rock-climbing wall 8 miles east near Index. Swimming access is 5 miles east at Big Eddy along the Skykomish River.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/289/Wallace-Falls",
+		"faxNumber": "",
+		"gpsCoordinates": "-121.68, 47.86565",
+		"googleAddress": null,
+		"streetAddress": "14503 Wallace Lake Rd",
+		"city": "Gold Bar",
+		"region": "Washington",
+		"regionCode": "98251",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483544,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Wanapum",
+				"fullName": "Wanapum State Park",
+				"description": "Ginkgo Petrified Forest State Park is a 7,470-acre park with camping at Wanapum Recreational Area. The park features 27,000 feet of freshwater shoreline on the Wanapum Reservoir along the Columbia River. Ginkgo Petrified Forest, discovered in the late 1920s, is a registered national natural landmark.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/288/Ginkgo-Petrified-Forest",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.9929169, 46.90050163",
+		"googleAddress": null,
+		"streetAddress": "4511 Huntzinger Road",
+		"city": "Vantage",
+		"region": "Washington",
+		"regionCode": "98950",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483543,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Wenatchee Confluence",
+				"fullName": "Wenatchee Confluence State Park",
+				"description": "Wenatchee Confluence State Park is a 197-acre year-round camping park at the confluence of the Wenatchee and Columbia rivers. The north section of the park is recreation area, while the south section is a designated natural wetland area. The park offers easy access to downtown Wenatchee and to such attractions as the Rocky Reach Dam and fish ladder and the Bavarian theme town of Leavenworth.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/286/Wenatchee-Confluence",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.3288, 47.46236",
+		"googleAddress": null,
+		"streetAddress": "333 Olds Station Rd",
+		"city": "Wenatchee",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483490,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Westhaven",
+				"fullName": "Westhaven",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483489,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Willapa Hills Trail",
+				"fullName": "Willapa Hills Trail",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483541,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Wolfe Property",
+				"fullName": "Wolfe Property",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483540,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Yakima Sportsman",
+				"fullName": "Yakima Sportsman State Park",
+				"description": "Yakima Sportsman State Park is a 266-acre camping park originally created by the Yakima Sportsman's Association to promote game management and the preservation of natural resources. The park is an irrigated green zone in an otherwise desert area and has a variety of deciduous trees in the camping and picnic areas.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/278/Yakima-Sportsman",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.4529, 46.59188",
+		"googleAddress": null,
+		"streetAddress": "904 University Parkway",
+		"city": "Yakima",
+		"region": "Washington",
+		"regionCode": "98901",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483524,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Columbia Plateau Trail-Central",
+				"fullName": "Columbia Plateau Trail-Central",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483481,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside Equestrian",
+				"fullName": "Riverside Equestrian Area",
+				"description": "Across the Spokane River from Riverside Bowl & Pitcher, equestrians will find a horse-friendly campground, 25 miles of trails and an obstacle course with a 60-foot round pen.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "47.68855, -117.49058",
+		"googleAddress": null,
+		"streetAddress": "3402 N Equestrian Lane",
+		"city": "Spokane",
+		"region": "Washington",
+		"regionCode": "99224",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483565,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Riverside - Bowl and Pitcher",
+				"fullName": "Riverside State Park - Bowl and Pitcher",
+				"description": "Riverside State Park occupies 12,000 acres along the Spokane and Little Spokane rivers just north of Spokane. With nearly 200,000 feet of shoreline, Riverside is the home to Ponderosa pines, lakes, marshes and a wide variety of wildlife. Equestrians will find a horse-friendly campground, 25 miles of trails and an obstacle course with a 60-foot round pen.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/573/Riverside",
+		"faxNumber": "",
+		"gpsCoordinates": "47.69833066, -117.4945174",
+		"googleAddress": null,
+		"streetAddress": "4427 N Aubrey L White Parkway",
+		"city": "Spokane",
+		"region": "Washington",
+		"regionCode": "99205",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483465,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Admiralty Lighthouse",
+				"fullName": "Fort Casey Admiralty Lighthouse",
+				"description": "Fort Casey Historical State Park is a 998-acre marine camping park with 10,810 feet of saltwater shoreline on Puget Sound (Admiralty Inlet); it includes Keystone Spit, a 2-mile stretch of land separating Admiralty Inlet and Crocket Lake. Fort Casey, Fort Worden and Fort Flagler together were known as the “Triangle of Fire,” a trio of strategically placed fortifications defending the entrance to the Puget Sound at the turn of the 20th Century.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/505/Fort-Casey",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.6782, 48.16386",
+		"googleAddress": null,
+		"streetAddress": "1280 Engle Rd",
+		"city": "Coupeville",
+		"region": "Washington",
+		"regionCode": "98239",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483607,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Illahee",
+				"fullName": "Illahee State Park",
+				"description": "Illahee State Park is a 75-acre marine camping park with 1,785 feet of saltwater frontage on Port Orchard Bay. The park has ample parking, facilities and access to water. Illahee features a veterans' war memorial and the last stand of old-growth timber in Kitsap County. One of the largest yew trees in the nation grows in this park.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/520/Illahee",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5974, 47.59558",
+		"googleAddress": null,
+		"streetAddress": "3540 NE Sylvan Way",
+		"city": "Bremerton",
+		"region": "Washington",
+		"regionCode": "98310",
+		"country": "USA",
+		"phoneNumber": "360-478-6460"
+	},
+	{
+		"resourceLocationId": -2147483589,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Manchester",
+				"fullName": "Manchester State Park",
+				"description": "Manchester State Park is a 111-acre camping park located near Port Orchard. The park includes 2 miles of hiking trails, but the park’s main attraction is its 3,400 feet of saltwater shoreline. Kayaking, swimming and diving (bring your own gear) allow visitors to take full advantage of this classic beach park with a view of Bainbridge Island and even Seattle on a clear day.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/542/Manchester",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.5563, 47.57732",
+		"googleAddress": null,
+		"streetAddress": "7767 E Hilldale",
+		"city": "Port Orchard",
+		"region": "Washington",
+		"regionCode": "98366",
+		"country": "USA",
+		"phoneNumber": "360-871-4065"
+	},
+	{
+		"resourceLocationId": -2147483560,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Scenic Beach",
+				"fullName": "Scenic Beach State Park",
+				"description": "Scenic Beach State Park is an 121-acre camping park with 1,500 feet of saltwater beachfront on Hood Canal. The restored 1923 Emel House, plus a gazebo and stellar views have made it a popular wedding venue. The park is known for its wild, native rhododendrons in spring.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/579/Scenic-Beach",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8469, 47.64626",
+		"googleAddress": null,
+		"streetAddress": "9565 Scenic Beach Road N.W.",
+		"city": "Seabeck",
+		"region": "Washington",
+		"regionCode": "98380",
+		"country": "USA",
+		"phoneNumber": "360-830-5079"
+	},
+	{
+		"resourceLocationId": -2147483588,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Maryhill",
+				"fullName": "Maryhill State Park",
+				"description": "Maryhill State Park is an 89-acre camping park with 4,700 feet of waterfront on the Columbia River. Maryhill offers that classic state park experience, with camping, boating, windsurfing, fishing, a swim beach and picnic facilities. Backed by the golden hills of the often-windy eastern Columbia River Gorge, the area is significant for its scenic beauty, access to the surrounding natural wonders, and cultural history. Trainspotting is also a part of the Maryhill experience. The Burlington Northern SantaFe tracks just north of the park carry around 24 trains a day. This can be a noisy proposition for light sleepers, but great fun for kids and train enthusiasts.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/543/Maryhill",
+		"faxNumber": "",
+		"gpsCoordinates": "-120.8347, 45.68224",
+		"googleAddress": null,
+		"streetAddress": "50 Highway 97",
+		"city": "Goldendale",
+		"region": "Washington",
+		"regionCode": "98620",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483464,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Headquarters",
+				"fullName": "Headquarters",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "P.O. Box 42650",
+		"city": "Olympia",
+		"region": "Washington",
+		"regionCode": "98504-2650",
+		"country": "USA",
+		"phoneNumber": "1-888-226-7688"
+	},
+	{
+		"resourceLocationId": -2147483612,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Fort Worden",
+				"fullName": "Fort Worden State Park",
+				"description": "Fort Worden Historical State Park is a 433-acre multi-use park with more than 2 miles of saltwater shoreline and a wide variety of services and facilities, including a full-service conference center that can be booked for daylong or multi-day events. Fort Worden, Fort Flagler and Fort Casey, with their big guns and strategic locations, once made up the coastal defense system known as, “The Triangle of Fire.” Constructed between 1898 and 1917, fascinating Fort Worden features more than 2 miles of beachfront and high bluffs with spectacular views of the Strait of Juan de Fuca.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/511/Fort-Worden",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.769, 48.13243",
+		"googleAddress": null,
+		"streetAddress": "200 Battery Way",
+		"city": "Port Townsend",
+		"region": "Washington",
+		"regionCode": "98368",
+		"country": "USA",
+		"phoneNumber": "360-344-4412"
+	},
+	{
+		"resourceLocationId": -2147483476,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Posey Island",
+				"fullName": "Posey Island Marine State Park",
+				"description": "Posey Island Marine State Park is popular with kayak groups and porpoises, but, depending on the day, you may also have the place to yourself. Though Posey seems barren at first, a thorough perusal reveals meadow grasses, ancient Yew trees, bright orange lichen and wildflowers blooming in season. Photographers and painters have found endless creative opportunities here. The park is a 1-acre camping park with 1,000 feet of shoreline. Posey Island is part of the Cascadia Marine Trail. There is no potable water on the island, and visitors must pack out what they pack in.",
+				"drivingDirections": "Posey is located a quarter mile north of Pearl Island, near Roche Harbor, San Juan Island. ",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/567/Posey-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.1681, 48.61875",
+		"googleAddress": null,
+		"streetAddress": "Posey Island Campground",
+		"city": "Posey Island",
+		"region": "Washington",
+		"regionCode": "98028",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483478,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Jones Island",
+				"fullName": "Jones Island Marine State Park",
+				"description": "Among the most enchanting of the San Juan Islands, Jones Island Marine State Park is the place to let your heart and feet wander. Your wheels can wander too, as the paved trail through the park’s interior meets ADA standards. Accessible only by boat, the park is 188 acres with 25,000 feet of saltwater shoreline on the San Juan channel. The park provides mooring buoys on two coves, a dock, a Cascadia Marine Trail campsite and 24 first come first served primitive campsites. Drinking water is available May through September. The park has six composting toilets. There is no garbage service to the park. Visitors must pack-out what they pack-in.",
+				"drivingDirections": "Jones Island is located one mile west of the southwestern corner of Orcas Island.",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/525/Jones-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-123.0483, 48.61757",
+		"googleAddress": null,
+		"streetAddress": "Jones Island Campground",
+		"city": "Jones Island",
+		"region": "Washington",
+		"regionCode": "98028",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483463,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Sacajawea Interpretive Center",
+				"fullName": "Sacajawea Interpretive Center",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-119.0492, 46.20778",
+		"googleAddress": null,
+		"streetAddress": "2503 Sacajawea Park Road",
+		"city": "Pasco",
+		"region": "Washington",
+		"regionCode": "99301",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483604,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Jarrell Cove",
+				"fullName": "Jarrell Cove State Park",
+				"description": "Jarrell Cove State Park is a 67-acre marine camping park with 3,500 feet of saltwater shoreline in the northwest of Harstine Island enclosed by Puget Sound and surrounded by Case Inlet and Pickering Passage. The park is a watery haven with excellent opportunities for swimming, diving and boating. An amphitheater, sports fields and camping make for entertainment and activities on terra-firma.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/523/Jarrell-Cove",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8811, 47.2858",
+		"googleAddress": null,
+		"streetAddress": "E 391 Wingert Road",
+		"city": "Shelton",
+		"region": "Washington",
+		"regionCode": "98584",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483516,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Palouse to Cascades Trail",
+				"fullName": "Palouse to Cascades Trail",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483504,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Obstruction Pass",
+				"fullName": "Obstruction Pass State Park",
+				"description": "<p>Obstruction Pass State Park is one of the few public beaches on famed Orcas Island.</p> \r\n<p>Though most people flock to its bigger neighbor, Moran State Park, this property's quiet beauty is unsurpassed. Opal waters lap at pebbly beaches, and madrone trees cling to bluffs. Rocky viewpoints entice picnickers, birders, lovebirds and youthful explorers.</p>\r\n<p>Follow the half-mile trail through a low forest to the bluff and down to the beach. But don't forget to snag one of nine first-come, first-served primitive campsites near the south end of the park. If you arrived by kayak or canoe, stake your tent at the Cascadia Marine Trail campsite close to the water. Motoring in on a bigger boat? Tie up to a mooring buoy, and enjoy a night on the water.</p>",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/553/Obstruction-Pass",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.825, 48.609",
+		"googleAddress": null,
+		"streetAddress": "Obstruction Pass State Park",
+		"city": "Olga",
+		"region": "Washington",
+		"regionCode": "98279",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483640,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Blake Island",
+				"fullName": "Blake Island State Park",
+				"description": "Blake Island Marine State Park is a 476-acre marine camping park with 5 miles of saltwater beach shoreline. The park is reachable only boat. Once off the boat, let your boots or bicycle take you down miles of trail to the island's interior, where forest animals and birds make appearances. Or stay near the water and fish, dig for clams in season or go scuba diving. Arriving by human-powered watercraft? Hunker down in one of the Cascadia Marine Trail campsites at the west end of the island for majestic sunsets over the Olympic Mountains.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/476/Blake-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.4834, 47.54247",
+		"googleAddress": null,
+		"streetAddress": "P.O. Box 277",
+		"city": "Manchester",
+		"region": "Washington",
+		"regionCode": "98353",
+		"country": "USA",
+		"phoneNumber": "360-731-8330"
+	},
+	{
+		"resourceLocationId": -2147483471,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Internet",
+				"fullName": "Internet",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": "509-664-6373"
+	},
+	{
+		"resourceLocationId": -2147483509,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "McMicken Island",
+				"fullName": "McMicken Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/545/McMicken-Island",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.8641, 47.24686",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "Shelton",
+		"region": "Washington",
+		"regionCode": "98584",
+		"country": "USA",
+		"phoneNumber": "(360) 426-9226"
+	},
+	{
+		"resourceLocationId": -2147483518,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Hope Island (Mason)",
+				"fullName": "Hope Island (Mason)",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "-122.9316, 47.1835",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": "Washington",
+		"regionCode": "98801-5938",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483630,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Columbia Hills",
+				"fullName": "Columbia Hills State Park",
+				"description": "Columbia Hills Historical State Park is a 3,338-acre park on the Columbia River. The Horsethief Lake portion of the park caters to campers and water-lovers. Amenities include tent and RV campsites, a watercraft launch and seasonal kayak rentals. A group of significant Native American pictographs and petroglyphs are displayed in this area of the park at the Temani Pesh-Wa exhibit.",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "https://parks.state.wa.us/489/Columbia-Hills",
+		"faxNumber": "",
+		"gpsCoordinates": "45.64902, -121.1239",
+		"googleAddress": null,
+		"streetAddress": "Milepost 85 State Route 14",
+		"city": "Dallesport",
+		"region": "Washington",
+		"regionCode": "98617",
+		"country": "USA",
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483461,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Skagit Island",
+				"fullName": "Skagit Island",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "48.41513474140219, -122.57823786150816",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": null,
+		"regionCode": "",
+		"country": null,
+		"phoneNumber": ""
+	},
+	{
+		"resourceLocationId": -2147483462,
+		"timeZoneOffset": -420.0,
+		"similarExperiences": [],
+		"localizedValues": [
+			{
+				"cultureName": "en-US",
+				"shortName": "Hope Island (Skagit)",
+				"fullName": "Hope Island (Skagit)",
+				"description": "",
+				"drivingDirections": "",
+				"confirmationLetterPolicies": []
+			}
+		],
+		"email": "",
+		"website": "",
+		"faxNumber": "",
+		"gpsCoordinates": "48.40115028737435, -122.57119841355885",
+		"googleAddress": null,
+		"streetAddress": "",
+		"city": "",
+		"region": null,
+		"regionCode": "",
+		"country": null,
+		"phoneNumber": ""
+	}
+]

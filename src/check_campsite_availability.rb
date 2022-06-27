@@ -6,10 +6,11 @@ class CheckCampsiteAvailability
   include Interactor
 
   def call
-    context.guid = [context.params.campground.id, context.params.start_date, context.params.end_date].join('-')
+    context.guid = [context.campground.id, context.params.start_date, context.params.end_date].join('-')
 
     query = URI.encode_www_form(campground_url_params)
     url = URI::HTTPS.build(host: 'washington.goingtocamp.com', path: '/create-booking/results', query: query)
+
     driver.get url
 
     # wait until "List view" button is visible
@@ -37,7 +38,7 @@ class CheckCampsiteAvailability
 
     results_pane = driver.find_elements(:css, '.list-view-results')
     if results_pane.size.positive?
-      context.message = "Availability was found at campsite #{context.params.campground.name}!"
+      context.message = "Availability was found at campsite #{context.campground.name}!"
       relevant_text = results_pane.first.find_elements(:css, ".resource-name").map(&:text).join(", ")
       context.data = { "available_sites": relevant_text}
       context.availability_found = true
@@ -64,7 +65,7 @@ class CheckCampsiteAvailability
 
   def campground_url_params
     {
-      'mapId' => context.params.campground.id,
+      'mapId' => context.campground.resource_location_id,
       'searchTabGroupId' => 0,
       'bookingCategoryId' => 0,
       'startDate' => context.params.start_date,
