@@ -26,6 +26,7 @@ class Orchestrator
 
         logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?
       end
+      logger.debug "Pausing until next check in #{config.minutes_interval} minutes"
     end
   end
 

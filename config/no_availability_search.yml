@@ -1,8 +1,0 @@
-campgrounds: 
-  - -2147483396 # alta lake (see campground.rb for full list)
-start_date: '2022-07-29'
-end_date: '2022-07-31'
-party_size: 2 
-subequipment_id: 
- - -32768 # one tent (see subequipment.rb for full list)
-minutes_interval: 10

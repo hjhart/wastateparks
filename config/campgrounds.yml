@@ -14,6 +14,9 @@ campgrounds:
   battle_ground:
     resource_location_id: -2147483395
     name: "Battle Ground Lake State Park"
+  twanoh:
+    resource_location_id: -2147483398
+    name: "Twanoh State Park"
   bay_view:
     resource_location_id: -2147483394
     name: "Bay View State Park"
@@ -35,6 +38,12 @@ campgrounds:
   brooks_memorial:
     resource_location_id: -2147483458
     name: "Brooks Memorial State Park"
+  penrose:
+    resource_location_id: -2147483364
+    name: "Penrose Point State Park"
+  saltwater:
+    resource_location_id: -2147483419
+    name: "Saltwater State Park"
   camano_island:
     resource_location_id: -2147483293
     name: "Camano Island State Park"
