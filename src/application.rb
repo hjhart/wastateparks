@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 require 'rubygems'
 require 'bundler/setup'
 require 'selenium-webdriver'
 require 'byebug'
 require 'interactor'
 require 'uri'
-require "logger"
+require 'logger'
 require_relative './check_campsite_availability'
 require_relative './campground_search_parameters'
 require_relative './equipment'

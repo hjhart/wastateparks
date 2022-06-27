@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Logging
   # This is the magical bit that gets mixed into your classes
   def logger
@@ -6,6 +8,6 @@ module Logging
 
   # Global, memoized, lazy initialized instance of a logger
   def self.logger
-    @logger ||= Logger.new(STDOUT)
+    @logger ||= Logger.new($stdout)
   end
 end

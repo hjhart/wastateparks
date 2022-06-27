@@ -20,7 +20,7 @@ class CheckCampsiteAvailability
 
     # wait until consent button is gone
     wait.until do
-      driver.find_elements(:css, '#consentButton').size == 0
+      driver.find_elements(:css, '#consentButton').size.zero?
     end
 
     # click "List view"
@@ -28,17 +28,19 @@ class CheckCampsiteAvailability
 
     # wait until availability or list results show up
     wait.until do
-      driver.find_elements(:css, '.list-view-results').size > 0 || driver.find_elements(:css, '.availability-panel').size > 0 
+      driver.find_elements(:css,
+                           '.list-view-results').size.positive? || driver.find_elements(:css,
+                                                                                        '.availability-panel').size.positive?
     end
 
     results_pane = driver.find_elements(:css, '.list-view-results')
-    if results_pane.size > 0
-      context.message = "availability found!"
+    if results_pane.size.positive?
+      context.message = 'availability found!'
     else
       no_availability_panel = driver.find_elements(:css, '.availability-panel')
-      if no_availability_panel.size > 0 
+      if no_availability_panel.size.positive?
         if no_availability_panel.first.text.include?('No Available')
-          context.message = "no availability found!"
+          context.message = 'no availability found!'
         else
           context.fail!(error: "Unable to find expected 'No Available' text")
         end
@@ -46,9 +48,8 @@ class CheckCampsiteAvailability
         context.fail!(error: "Couldn't find either list results or availability panel")
       end
     end
-
-  rescue => exception
-    context.fail!(error: exception.message)
+  rescue StandardError => e
+    context.fail!(error: e.message)
   end
 
   private
@@ -71,7 +72,11 @@ class CheckCampsiteAvailability
   end
 
   def driver
-    @driver ||= Selenium::WebDriver.for :chrome
+    @driver ||= begin
+      options = Selenium::WebDriver::Chrome::Options.new
+      options.add_argument('--headless')
+      Selenium::WebDriver.for :chrome, options: options
+    end
   end
 
   def wait

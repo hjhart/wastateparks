@@ -1,8 +1,9 @@
+# frozen_string_literal: true
+
 class Campground
-  class CampgroundWithName < Struct.new(:id, :name)
-  end
+  CampgroundWithName = Struct.new(:id, :name)
 
   def self.alta_lake
-    CampgroundWithName.new(-2147483396, 'Alta Lake')
+    CampgroundWithName.new(-2_147_483_396, 'Alta Lake')
   end
 end
