@@ -10,8 +10,6 @@ class Orchestrator
   def call
     logger.debug 'Starting the application...'
 
-    debugger
-    
     every_n_minutes(config.minutes_interval) do
       config.campgrounds.each do |campground|
         logger.debug "Checking on campsite #{campground.name} at #{Time.now.strftime('%X')}"

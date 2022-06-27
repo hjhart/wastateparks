@@ -10,6 +10,10 @@ end
 RSpec.describe Storage do
   let(:subject) { TestClass.new }
   
+  before do
+    subject.storage.setup
+  end
+
   after do 
     subject.storage.cleanup
   end
@@ -23,10 +27,9 @@ RSpec.describe Storage do
   end
 
   describe 'storing records' do
-
     it 'can read after it has written' do
       subject.storage.insert_availability(guid: '12345', message: 'Test', data: { foo: "Baz" }, url: "https://www.whitehouse.com")
-      result = subject.storage.read.first
+      result = subject.storage.all_availability.first
       expect(result.guid).to eq('12345')
       expect(result.message).to eq("Test")
       expect(result.data).to eq({ 'foo' => "Baz" })

@@ -40,7 +40,7 @@ class SqliteStorage
 
     SQL
     storage.execute <<-SQL
-      create table if not exists results (
+      create table if not exists availability (
         id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
         guid varchar(255) not null,
         message varchar(255),
@@ -53,7 +53,7 @@ class SqliteStorage
 
   def cleanup
     storage.execute <<-SQL
-      drop table if exists results;
+      drop table if exists availability;
     SQL
     storage.execute <<-SQL
       drop table if exists notifications;
@@ -62,13 +62,13 @@ class SqliteStorage
 
   def insert_availability(guid:, message:, data:, url:)
     storage.execute <<-SQL
-      INSERT INTO results (guid, message, data, url, created_at) VALUES ('#{guid}', '#{message}', '#{data.to_json}', '#{url}', datetime('now'))
+      INSERT INTO availability (guid, message, data, url, created_at) VALUES ('#{guid}', '#{message}', '#{data.to_json}', '#{url}', datetime('now'))
     SQL
   end
 
   def all_availability
     results = storage.execute <<-SQL
-      select * from results;
+      select * from availability;
     SQL
     results.map { |row| Result.new(*row) }
   end
