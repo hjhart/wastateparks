@@ -14,6 +14,7 @@ class Orchestrator
 
       if result.success?
         logger.info 'You succeeded in either finding or not finding availability'
+        storage.write(result)
         # puts result.found_availability? ? "You found availability" : "You didn't find availability"
         # puts result.guid
         puts result.message
@@ -26,6 +27,10 @@ class Orchestrator
   end
 
   private
+
+  def storage
+    Storage.new
+  end
 
   def config
     # no availability

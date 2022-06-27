@@ -3,3 +3,4 @@ results.json
 results/
 .byebug_history
 campground.log
+test.db

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 def every_n_minutes(n)
-  seconds = n
+  seconds = n * 60
 
   loop do
     before = Time.now
