@@ -8,12 +8,21 @@ class TestClass
 end
 
 RSpec.describe Storage do
-  describe 'storing data' do
-    let(:subject) { TestClass.new }
+  let(:subject) { TestClass.new }
+  
+  after do 
+    subject.storage.cleanup
+  end
 
-    after do 
-      subject.storage.cleanup
+  describe 'storing notifications' do
+    it 'can mark a guid as sent' do
+      expect(subject.storage.already_sent_notification_for_guid?('234')).to be_falsey
+      subject.storage.mark_guid_as_sent('234') 
+      expect(subject.storage.already_sent_notification_for_guid?('234')).to be_truthy
     end
+  end
+
+  describe 'storing records' do
 
     it 'can read after it has written' do
       subject.storage.insert_availability(guid: '12345', message: 'Test', data: { foo: "Baz" }, url: "https://www.whitehouse.com")

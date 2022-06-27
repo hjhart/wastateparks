@@ -6,6 +6,7 @@ class Orchestrator
   include Logging
   include Storage
 
+
   def call
     logger.debug 'Starting the application...'
 
@@ -16,7 +17,10 @@ class Orchestrator
       if result.success?
         logger.info 'Ran checker successfully'
         logger.info [result.message, result.data].join(' ')
-        storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) if result.availability_found
+        if result.availability_found
+          storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) 
+          Notification.from_result(result).send!
+        end
       end
 
       logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?

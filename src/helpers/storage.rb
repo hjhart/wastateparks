@@ -32,13 +32,21 @@ class SqliteStorage
   def setup
     # Create a table
     storage.execute <<-SQL
+      create table if not exists notifications (
+        id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+        guid varchar(255) not null,
+        notified_at timestamp not null
+      );
+
+    SQL
+    storage.execute <<-SQL
       create table if not exists results (
         id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-        guid varchar(255),
+        guid varchar(255) not null,
         message varchar(255),
         url varchar(255),
         data varchar(1024),
-        created_at timestamp
+        created_at timestamp not null 
       );
     SQL
   end
@@ -47,18 +55,34 @@ class SqliteStorage
     storage.execute <<-SQL
       drop table if exists results;
     SQL
+    storage.execute <<-SQL
+      drop table if exists notifications;
+    SQL
   end
 
   def insert_availability(guid:, message:, data:, url:)
     storage.execute <<-SQL
-    INSERT INTO results (guid, message, data, url, created_at) VALUES ('#{guid}', '#{message}', '#{data.to_json}', '#{url}', datetime('now'))
+      INSERT INTO results (guid, message, data, url, created_at) VALUES ('#{guid}', '#{message}', '#{data.to_json}', '#{url}', datetime('now'))
     SQL
   end
 
-  def read
+  def all_availability
     results = storage.execute <<-SQL
       select * from results;
     SQL
     results.map { |row| Result.new(*row) }
+  end
+
+  def already_sent_notification_for_guid?(guid)
+    result = storage.execute <<-SQL
+      select * from notifications where guid = '#{guid}';
+    SQL
+    !result.empty?
+  end
+
+  def mark_guid_as_sent(guid)
+    storage.execute <<-SQL
+      insert into notifications (guid, notified_at) values ('#{guid}', datetime('now'));
+    SQL
   end
 end
