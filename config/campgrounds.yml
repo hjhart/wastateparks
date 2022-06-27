@@ -12,419 +12,68 @@ campgrounds:
     resource_location_id: -2147483535
     name: "Griffith-Priday State Park"
   battle_ground:
-     resource_location_id: --2147483646
-     name: "Battle Ground Lake State Park"
+    resource_location_id: -2147483395
+    name: "Battle Ground Lake State Park"
   bay_view:
-    resource_location_id: -2147483645
+    resource_location_id: -2147483394
     name: "Bay View State Park"
   beacon_rock:
-    resource_location_id: -2147483644
+    resource_location_id: -2147483405
     name: "Beacon Rock State Park"
   belfair: 
-    resource_location_id: -2147483643
+    resource_location_id: -2147483319
     name: "Belfair State Park"
-  big_eddy:
-    resource_location_id: -2147483642
-    name: "Big Eddy"
   birch_bay:
-    resource_location_id: -2147483641
+    resource_location_id: -2147483393
     name: "Birch Bay State Park"
-  blind_island:
-    resource_location_id: -2147483479
-    name: "Blind Island"
   bogachiel:
-    resource_location_id: -2147483639
+    resource_location_id: -2147483460
     name: "Bogachiel State Park"
-  bottle_beach:
-    resource_location_id: -2147483526
-    name: "Bottle Beach"
   bridgeport:
-    resource_location_id: -2147483638
+    resource_location_id: -2147483392
     name: "Bridgeport State Park"
-  bridle_trails:
-    resource_location_id: -2147483637
-    name: "Bridle Trails"
   brooks_memorial:
-    resource_location_id: -2147483636
+    resource_location_id: -2147483458
     name: "Brooks Memorial State Park"
-  burrows_island:
-    resource_location_id: -2147483635
-    name: "Burrows Island"
-  cama_beach:
-    resource_location_id: -2147483539
-    name: "Cama Beach State Park"
   camano_island:
-    resource_location_id: -2147483538
+    resource_location_id: -2147483293
     name: "Camano Island State Park"
-  camano_island_cabins:
-    resource_location_id: -2147483488
-    name: "Camano Island State Park (Cabins)"
   cape_disappointment:
-    resource_location_id: -2147483633
+    resource_location_id: -2147483316
     name: "Cape Disappointment State Park"
-  centennial_trail:
-    resource_location_id: -2147483525
-    name: "Centennial Trail"
-  chance_a_la_me:
-    resource_location_id: -2147483632
-    name: "Chance a la Mer OBA"
-  clark_island:
-    resource_location_id: -2147483631
-    name: "Clark Island"
-  columbia_plateau:
-    resource_location_id: -2147483629
-    name: "Columbia Plateau Trail-North"
   conconully:
-    resource_location_id: -2147483628
+    resource_location_id: -2147483391
     name: "Conconully State Park"
-  crawford:
-    resource_location_id: -2147483523
-    name: "Crawford"
-  curlew:
-    resource_location_id: -2147483627
-    name: "Curlew Lake State Park"
-  daroga:
-    resource_location_id: -2147483626
-    name: "Daroga State Park"
-  dash_point:
-    resource_location_id: -2147483625
-    name: "Dash Point State Park"
-  deception_pass:
-    resource_location_id: -2147483624
-    name: "Deception Pass State Park"
-  doe_island:
-    resource_location_id: -2147483623
-    name: "Doe Island"
-  dosewallips:
-    resource_location_id: -2147483622
-    name: "Dosewallips State Park"
-  dougs_beach:
-    resource_location_id: -2147483522
-    name: "Doug's Beach"
-  dry_falls:
-    resource_location_id: -2147483621
-    name: "Dry Falls State Park"
-  ebeys_landing:
-    resource_location_id: -2147483467
-    name: "Ebey's Landing"
-  federation:
-    resource_location_id: -2147483620
-    name: "Federation Forest State Park"
-  fields_spring:
-    resource_location_id: -2147483619
-    name: "Fields Spring State Park"
-  flaming_geyser:
-    resource_location_id: -2147483618
-    name: "Flaming Geyser State Park"
-  forks:
-    resource_location_id: -2147483520
-    name: "Forks of the Sky"
-  fort_casey:
-    resource_location_id: -2147483617
-    name: "Fort Casey State Park"
-  fort_columbia:
-    resource_location_id: -2147483537
-    name: "Fort Columbia State Park"
-    resource_location_id: -2147483616
-  fort_ebey:
-    name: "Fort Ebey State Park"
-    resource_location_id: -2147483615
-  fort_flagler:
-    name: "Fort Flagler State Park"
-    resource_location_id: -2147483614
-  fort_simcoe:
-    name: "Fort Simcoe"
-    resource_location_id: -2147483613
-  fort_townsend:
-    name: "Fort Townsend State Park"
-  goldendale:
-    resource_location_id: -2147483536
-    name: "Goldendale Observatory State Park"
-  grayland:
-    resource_location_id: -2147483610
-    name: "Grayland Beach State Park"
-  griffiths_priday:
-    resource_location_id: -2147483609
-    name: "Griffiths-Priday State Park"
-  harstine_island:
-    resource_location_id: -2147483468
-    name: "Hartstine Island"
-  ike_kinswa:
-    resource_location_id: -2147483608
-    name: "Ike Kinswa State Park"
-  james_island:
-    resource_location_id: -2147483605
-    name: "James Island"
-  joemma_beach:
-    resource_location_id: -2147483603
-    name: "Joemma Beach"
-  joseph_whidbey:
-    resource_location_id: -2147483602
-    name: "Joseph Whidbey"
-  kanaskat_palmer:
-    resource_location_id: -2147483601
-    name: "Kanaskat-Palmer State Park"
-  kinney_point:
-    resource_location_id: -2147483515
-    name: "Kinney Point"
-  kitsap:
-    resource_location_id: -2147483600
-    name: "Kitsap Memorial State Park"
-  klickitat:
-    resource_location_id: -2147483514
-    name: "Klickitat Trail"
-  kopachuck:
-    resource_location_id: -2147483534
-    name: "Kopachuck State Park"
-  lake_chelan:
-    resource_location_id: -2147483599
-    name: "Lake Chelan State Park"
-  lake_easton:
-    resource_location_id: -2147483598
-    name: "Lake Easton State Park"
-  lake_isabella:
-    resource_location_id: -2147483597
-    name: "Lake Isabella"
-  lake_sammamish:
-    resource_location_id: -2147483596
-    name: "Lake Sammamish State Park"
-  lake_sylvia:
-    resource_location_id: -2147483595
-    name: "Lake Sylvia State Park"
-  lake_wenatchee:
-    resource_location_id: -2147483594
-    name: "Lake Wenatchee State Park"
-  larabee:
-    resource_location_id: -2147483593
-    name: "Larrabee State Park"
-  lewis_and_clark:
-    resource_location_id: -2147483592
-    name: "Lewis and Clark State Park"
-  lewis_and_clark_trail:
-    resource_location_id: -2147483591
-    name: "Lewis and Clark Trail State Park"
-  lime_kiln:
-    resource_location_id: -2147483477
-    name: "Lime Kiln Point State Park"
-  lincoln:
-    resource_location_id: -2147483590
-    name: "Lincoln Rock State Park"
-  lyons:
-    resource_location_id: -2147483532
-    name: "Lyons Ferry State Park"
-  matia:
-    resource_location_id: -2147483587
-    name: "Matia Island"
-  miller:
-    resource_location_id: -2147483508
-    name: "Miller Peninsula"
-  millersylvania:
-    resource_location_id: -2147483586
-    name: "Millersylvania State Park"
-  moran:
-    resource_location_id: -2147483585
-    name: "Moran State Park"
-  mount_pilchuck:
-    resource_location_id: -2147483507
-    name: "Mount Pilchuk"
-  mount_spokane:
-    resource_location_id: -2147483584
-    name: "Mount Spokane State Park"
-  mystery_bay:
-    resource_location_id: -2147483506
-    name: "Mystery Bay"
-  nisqually:
-    resource_location_id: -2147483466
-    name: "Nisqually State Park"
-  nolte:
-    resource_location_id: -2147483583
-    name: "Nolte State Park"
-  ocean_city:
-    resource_location_id: -2147483582
-    name: "Ocean City State Park"
-  olallie:
-    resource_location_id: -2147483580
-    name: "Olallie"
-  olmstead:
-    resource_location_id: -2147483579
-    name: "Olmstead Place"
-  pacific_beach:
-    resource_location_id: -2147483577
-    name: "Pacific Beach State Park"
-  palouse_falls:
-    resource_location_id: -2147483503
-    name: "Palouse Falls"
-  paradise_point:
-    resource_location_id: -2147483576
-    name: "Paradise Point State Park"
-  patos_island:
-    resource_location_id: -2147483575
-    name: "Patos Island"
-  peace_arch:
-    resource_location_id: -2147483574
-    name: "Peace Arch State Park"
-  pearrygin:
-    resource_location_id: -2147483573
-    name: "Pearrygin Lake State Park"
-  penrose_point:
-    resource_location_id: -2147483572
-    name: "Penrose Point State Park"
-  peshastin:
-    resource_location_id: -2147483502
-    name: "Peshastin Pinnacles"
-  pleasant_harbor:
-    resource_location_id: -2147483501
-    name: "Pleasant Harbor"
-  possession_point:
-    resource_location_id: -2147483571
-    name: "Possession Point"
-  potholes:
-    resource_location_id: -2147483570
-    name: "Potholes State Park"
-  potlatch:
-    resource_location_id: -2147483569
-    name: "Potlatch State Park"
-  rainbow_falls:
-    resource_location_id: -2147483568
-    name: "Rainbow Falls State Park"
-  rasar:
-    resource_location_id: -2147483567
-    name: "Rasar State Park"
-  rockport:
-    resource_location_id: -2147483564
-    name: "Rockport State Park"
-  sacajawea:
-    resource_location_id: -2147483531
-    name: "Sacajawea State Park"
-  saddlebag:
-    resource_location_id: -2147483562
-    name: "Saddlebag Island"
-  saint_edward:
-    resource_location_id: -2147483530
-    name: "Saint Edward State Park"
-  saltwater:
-    resource_location_id: -2147483561
-    name: "Saltwater State Park"
-  schafer:
-    resource_location_id: -2147483559
-    name: "Schafer State Park"
-  seaquest:
-    resource_location_id: -2147483558
-    name: "Seaquest State Park"
-  sequim:
-    resource_location_id: -2147483557
-    name: "Sequim Bay State Park"
-  shine:
-    resource_location_id: -2147483556
-    name: "Shine Tidelands"
-  south_whidbey:
-    resource_location_id: -2147483555
-    name: "South Whidbey State Park"
-  spencer_spit:
-    resource_location_id: -2147483554
-    name: "Spencer Spit State Park"
-  squad_mtn:
-    resource_location_id: -2147483553
-    name: "Squak Mtn"
-  squilchuck:
-    resource_location_id: -2147483529
-    name: "Squilchuck State Park"
-  steamboat:
-    resource_location_id: -2147483552
-    name: "Steamboat Rock State Park"
-  steptoe_butte:
-    resource_location_id: -2147483493
-    name: "Steptoe Butte"
-  stuart:
-    resource_location_id: -2147483475
-    name: "Stuart Island"
-  sucia:
-    resource_location_id: -2147483528
-    name: "Sucia Island State Park"
-  sun_lakes:
-    resource_location_id: -2147483551
-    name: "Sun Lakes State Park"
-  tolmie:
-    resource_location_id: -2147483550
-    name: "Tolmie State Park"
-  triton:
-    resource_location_id: -2147483491
-    name: "Triton Cove"
-  turn:
-    resource_location_id: -2147483474
-    name: "Turn Island"
-  twanoh:
-    resource_location_id: -2147483549
-    name: "Twanoh State Park"
-  twenty_five:
-    resource_location_id: -2147483548
-    name: "Twenty-Five Mile Creek State Park"
-  twin_harbors:
-    resource_location_id: -2147483547
-    name: "Twin Harbors State Park"
-  upright:
-    resource_location_id: -2147483546
-    name: "Upright Channel"
-  wallace_falls:
-    resource_location_id: -2147483545
-    name: "Wallace Falls State Park"
-  wanapum:
-    resource_location_id: -2147483544
-    name: "Wanapum State Park"
-  wenatchee:
-    resource_location_id: -2147483543
-    name: "Wenatchee Confluence State Park"
-  westhaven:
-    resource_location_id: -2147483490
-    name: "Westhaven"
-  willapa:
-    resource_location_id: -2147483489
-    name: "Willapa Hills Trail"
-  yakima:
-    resource_location_id: -2147483540
-    name: "Yakima Sportsman State Park"
-  columbia:
-    resource_location_id: -2147483524
-    name: "Columbia Plateau Trail-Central"
   illahee:
-    resource_location_id: -2147483607
+    resource_location_id: -2147483380
     name: "Illahee State Park"
   manchester:
-    resource_location_id: -2147483589
+    resource_location_id: -2147483371
     name: "Manchester State Park"
   scenic_beach:
-    resource_location_id: -2147483560
+    resource_location_id: -2147483359
     name: "Scenic Beach State Park"
   maryhill:
-    resource_location_id: -2147483588
+    resource_location_id: -2147483370
     name: "Maryhill State Park"
-  fort_warden:
-    resource_location_id: -2147483612
+  fort_worden:
+    resource_location_id: -2147483383
     name: "Fort Worden State Park"
   posey:
-    resource_location_id: -2147483476
+    resource_location_id: -2147483302
     name: "Posey Island Marine State Park"
-  jones:
-    resource_location_id: -2147483478
-    name: "Jones Island Marine State Park"
   jarrell_cove:
-    resource_location_id: -2147483604
+    resource_location_id: -2147483442
     name: "Jarrell Cove State Park"
   obstruction_pass:
-    resource_location_id: -2147483504
+    resource_location_id: -2147483232
     name: "Obstruction Pass State Park"
   blake_island:
-    resource_location_id: -2147483640
+    resource_location_id: -2147483404
     name: "Blake Island State Park"
-  mcmicken:
-    resource_location_id: -2147483509
-    name: "McMicken Island"
   hope_island:
-    resource_location_id: -2147483518
+    resource_location_id: -2147483230
     name: "Hope Island (Mason)"
   columbia_hills:
-    resource_location_id: -2147483630
+    resource_location_id: -2147483456
     name: "Columbia Hills State Park"
-  skagit_island:
-    resource_location_id: -2147483461
-    name: "Skagit Island"

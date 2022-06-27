@@ -1,6 +1,13 @@
 campground_ids: 
   - alta_lake
   - dash_point
+  - penrose_point
+  - saltwater
+  - belfair
+  - scenic_beach
+  - twanoh
+  - bay_view
+  - nolte
 start_date: '2022-07-29'
 end_date: '2022-07-31'
 party_size: 2 
