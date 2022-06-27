@@ -1,4 +1,4 @@
-require 'kimurai' " 
+require 'kimurai'  
 campgrounds = ["Bogachiel​
   Fort Townsend​", "Jarrell Cove​", "Saltwater​", "Schafer​", "Blake Island​", "Federation Forest​", "Flaming Geyser​", "Lake Sammamish​", "Nolte​", "Peace Arch​", "Twanoh​", "Bay View​", "Birch Bay​", "Dash Point​", "Dosewallips​", "Deception Pass​
   Fort Casey​

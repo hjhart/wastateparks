@@ -1,6 +1,8 @@
+# frozen_string_literal: true
 source "https://rubygems.org"
 
-gem "kimurai"
-gem "twilio-ruby"
 gem "byebug"
 gem "dotenv"
+gem "pushover"
+gem "selenium-webdriver"
+gem "interactor"

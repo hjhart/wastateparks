@@ -5,3 +5,7 @@ HEADLESS=false ruby src/campground.rb
 ruby src/campground.rb
 
 whenever --update-crontab --load-file config/schedule.rb
+
+```
+bundle install
+```
