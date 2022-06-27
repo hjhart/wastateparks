@@ -6,6 +6,8 @@ class CheckCampsiteAvailability
   include Interactor
 
   def call
+    context.guid = [context.params.campground.id, context.params.start_date, context.params.end_date].join('-')
+
     query = URI.encode_www_form(campground_url_params)
     url = URI::HTTPS.build(host: 'washington.goingtocamp.com', path: '/create-booking/results', query: query)
     driver.get url
@@ -35,7 +37,11 @@ class CheckCampsiteAvailability
 
     results_pane = driver.find_elements(:css, '.list-view-results')
     if results_pane.size.positive?
-      context.message = 'availability found!'
+      context.message = "Availability was found at campsite #{context.params.campground.name}!"
+      relevant_text = results_pane.first.find_elements(:css, ".resource-name").map(&:text).join(", ")
+      context.data = { "available_sites": relevant_text}
+      context.availability_found = true
+      context.url = driver.current_url
     else
       no_availability_panel = driver.find_elements(:css, '.availability-panel')
       if no_availability_panel.size.positive?
@@ -50,6 +56,8 @@ class CheckCampsiteAvailability
     end
   rescue StandardError => e
     context.fail!(error: e.message)
+  ensure
+    driver.close
   end
 
   private
@@ -74,7 +82,7 @@ class CheckCampsiteAvailability
   def driver
     @driver ||= begin
       options = Selenium::WebDriver::Chrome::Options.new
-      options.add_argument('--headless')
+      # options.add_argument('--headless')
       Selenium::WebDriver.for :chrome, options: options
     end
   end

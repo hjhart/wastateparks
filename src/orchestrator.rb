@@ -4,6 +4,7 @@ require_relative './application'
 
 class Orchestrator
   include Logging
+  include Storage
 
   def call
     logger.debug 'Starting the application...'
@@ -13,13 +14,9 @@ class Orchestrator
       result = CheckCampsiteAvailability.call(params: config)
 
       if result.success?
-        logger.info 'You succeeded in either finding or not finding availability'
-        storage.write(result)
-        # puts result.found_availability? ? "You found availability" : "You didn't find availability"
-        # puts result.guid
-        puts result.message
-        # puts result.data.inspect
-        # puts result.url
+        logger.info 'Ran checker successfully'
+        logger.info [result.message, result.data].join(' ')
+        storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) if result.availability_found
       end
 
       logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?
@@ -28,16 +25,13 @@ class Orchestrator
 
   private
 
-  def storage
-    Storage.new
-  end
-
   def config
     # no availability
-    CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-07-29', end_date: '2022-07-31',
-                                   party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
+    # CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-07-29', end_date: '2022-07-31',
+                                  #  party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
     # some availability
-    # CampgroundSearchParameters.new(Campground.alta_lake, '2022-06-29', '2022-06-30', 2, Subequipment.two_tents)
+    CampgroundSearchParameters.new(campground: Campground.alta_lake, start_date: '2022-06-29', end_date: '2022-06-30',
+                                   party_size: 2, subequipment_id: Subequipment.one_tent, minutes_interval: 10)
   end
 end
 

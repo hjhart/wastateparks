@@ -19,7 +19,11 @@ end
 class SqliteStorage
   require 'sqlite3'
 
-  Result = Struct.new(:id, :guid, :message, :created_at)
+  class Result < Struct.new(:id, :guid, :message, :url, :raw_data, :created_at)
+    def data
+      @data ||= JSON.parse(raw_data)
+    end
+  end
 
   def storage
     @storage ||= SQLite3::Database.new 'test.db'
@@ -30,8 +34,10 @@ class SqliteStorage
     storage.execute <<-SQL
       create table if not exists results (
         id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-        guid varchar(30),
-        message varchar(30),
+        guid varchar(255),
+        message varchar(255),
+        url varchar(255),
+        data varchar(1024),
         created_at timestamp
       );
     SQL
@@ -43,9 +49,9 @@ class SqliteStorage
     SQL
   end
 
-  def write(guid, message)
+  def insert_availability(guid:, message:, data:, url:)
     storage.execute <<-SQL
-    INSERT INTO results (guid, message, created_at) VALUES ('#{guid}', '#{message}', datetime('now'));
+    INSERT INTO results (guid, message, data, url, created_at) VALUES ('#{guid}', '#{message}', '#{data.to_json}', '#{url}', datetime('now'))
     SQL
   end
 
