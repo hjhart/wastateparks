@@ -1,11 +1,22 @@
-HEADLESS=false bundle exec kimurai console --engine selenium_chrome --url "https://washington.goingtocamp.com/create-booking/results?mapId=-2147483346&searchTabGroupId=0&bookingCategoryId=0&startDate=2020-08-01T00:00:00.000Z&endDate=2020-08-02T00:00:00.000Z&nights=1&isReserving=true&equipmentId=-32768&subEquipmentId=-32768&partySize=2&searchTime=Mon%20Jul%2027%202020%2017:36:28%20GMT-0700%20(Pacific%20Daylight%20Time)&resourceLocationId=-2147483538"
+# Washington State Campground Finder
 
-HEADLESS=false ruby src/campground.rb
+This repository will help you get those tough to find reservations for the washington state park system! Configure it correctly, and each time your search configuration finds a newly opened campground, you'll be notified via [Pushover](https://pushover.net) notification.
 
-ruby src/campground.rb
+## Installation
 
-whenever --update-crontab --load-file config/schedule.rb
+Copy the `.env.example` to `.env` file and edit `.env` to provide the proper pushover notification settings.
+
 
 ```
 bundle install
+bundle exec ruby src/orchestrator.rb
 ```
+
+
+#### Work pending
+
+- [ ] Make things a little more configurable
+- [ ] Allow to search multiple campgrounds per process
+- [ ] Write up instructions on how to configure 
+- [ ] Dockerize the process
+- [ ] Clean up the storage class
