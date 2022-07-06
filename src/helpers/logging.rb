@@ -8,6 +8,15 @@ module Logging
 
   # Global, memoized, lazy initialized instance of a logger
   def self.logger
-    @logger ||= Logger.new($stdout)
+    @logger ||= begin 
+      $stdout.sync = true
+      logger = Logger.new($stdout)
+      if ENV['DEBUG'] == 'true'
+        logger.level = Logger::DEBUG
+      else
+        logger.level = Logger::INFO
+      end
+      logger
+    end
   end
 end

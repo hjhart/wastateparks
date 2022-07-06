@@ -8,8 +8,8 @@ campground_ids:
   - scenic_beach
   - twanoh
   - bay_view
-start_date: '2022-06-29'
-end_date: '2022-06-30'
+start_date: '2022-07-24'
+end_date: '2022-07-25'
 party_size: 2 
 subequipment_id: 
  - -32768 # one tent (see subequipment.rb for full list)

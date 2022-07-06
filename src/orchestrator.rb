@@ -12,21 +12,24 @@ class Orchestrator
 
     every_n_minutes(config.minutes_interval) do
       config.campgrounds.each do |campground|
-        logger.debug "Checking on campsite #{campground.name} at #{Time.now.strftime('%X')}"
+        logger.info "Checking on campsite #{campground.name} at #{Time.now.strftime('%X')}"
         result = CheckCampsiteAvailability.call(params: config, campground: campground)
 
         if result.success?
-          logger.info 'Ran checker successfully'
-          logger.info [result.message, result.data].join(' ')
+          logger.debug 'Ran checker successfully'
+          logger.debug [result.message, result.data].join(' ')
           if result.availability_found
+            logger.info "Found availability for #{campground.name}"
             storage.insert_availability(guid: result.guid, message: result.message, data: result.data, url: result.url) 
             Notification.from_result(result).send!
+          else
+            logger.info "Nothing found for #{campground.name}"
           end
         end
 
         logger.error "There was an error finding what we were expecting #{result.error}" if result.failure?
       end
-      logger.debug "Pausing until next check in #{config.minutes_interval} minutes"
+      logger.info "Pausing until next check in #{config.minutes_interval} minutes"
     end
   end
 

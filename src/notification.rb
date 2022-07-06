@@ -24,6 +24,16 @@ class Notification
   end
 
   def send_notification
-    Pushover::Message.new(token: ENV['PUSHOVER_TOKEN'], user: ENV['PUSHOVER_USER'], message: result.message).push
+    client = Rushover::Client.new(ENV['PUSHOVER_TOKEN'])
+    resp = client.notify(ENV['PUSHOVER_USER'], message, title: result.message, html: 1, url: result.url)
+    if resp.ok?
+      logger.info "Successfully notified user"
+    end
+  end
+
+  private
+
+  def message
+    result.data.map { |key, value| "<b>#{key}</b>: #{value}" }.join('\n')
   end
 end

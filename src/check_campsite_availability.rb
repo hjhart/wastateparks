@@ -4,6 +4,7 @@ require_relative './application'
 
 class CheckCampsiteAvailability
   include Interactor
+  include Logging
 
   def call
     context.guid = [context.campground.id, context.params.start_date, context.params.end_date].join('-')
@@ -11,6 +12,7 @@ class CheckCampsiteAvailability
     query = URI.encode_www_form(campground_url_params)
     url = URI::HTTPS.build(host: 'washington.goingtocamp.com', path: '/create-booking/results', query: query)
 
+    logger.debug "Opening #{url}"
     driver.get url
 
     # wait until "List view" button is visible
@@ -18,6 +20,7 @@ class CheckCampsiteAvailability
       driver.find_element(:css, '.btn-search-results-toggle-label')
     end
 
+    logger.debug "Clicking consent button"
     # click consent button
     driver.find_element(:css, '#consentButton').click
 
@@ -26,6 +29,7 @@ class CheckCampsiteAvailability
       driver.find_elements(:css, '#consentButton').size.zero?
     end
 
+    logger.debug "Clicking list view"
     # click "List view"
     driver.find_elements(:css, '.btn-search-results-toggle-label').last.click
 
@@ -36,6 +40,7 @@ class CheckCampsiteAvailability
                                                                                         '.availability-panel').size.positive?
     end
 
+    logger.debug "Looking for results..."
     results_pane = driver.find_elements(:css, '.list-view-results')
     if results_pane.size.positive?
       context.message = "Availability was found at campsite #{context.campground.name}!"

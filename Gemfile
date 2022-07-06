@@ -2,12 +2,15 @@
 
 source 'https://rubygems.org'
 
-gem 'byebug'
 gem 'dotenv'
 gem 'interactor'
-gem 'pushover'
+gem 'rushover'
 gem 'selenium-webdriver'
 gem 'sqlite3'
+
+group :development do
+  gem 'byebug'
+end
 
 group :test, :development do
   gem 'rspec'
