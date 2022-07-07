@@ -14,12 +14,13 @@ class Notification
   end
 
   def send!
-    if storage.already_sent_notification_for_guid?(result.guid)
-      logger.debug "Notification already sent for #{result.guid}"
+    guid = result.guid.join("-")
+    if storage.already_sent_notification_for_guid?(guid)
+      logger.debug "Notification already sent for #{guid}"
     else
-      logger.info "Sending notification for #{result.guid}"
+      logger.info "Sending notification for #{guid}"
       send_notification
-      storage.mark_guid_as_sent(result.guid)
+      storage.mark_guid_as_sent(guid)
     end
   end
 
@@ -34,6 +35,6 @@ class Notification
   private
 
   def message
-    result.data.map { |key, value| "<b>#{key}</b>: #{value}" }.join('\n')
+    result.data.map { |key, value| "<b>#{key}</b>: #{value}" }.join('<br>')
   end
 end

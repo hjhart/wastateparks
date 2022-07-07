@@ -17,6 +17,8 @@ module Storage
 end
 
 class SqliteStorage
+  include Logging
+
   require 'sqlite3'
 
   class Result < Struct.new(:id, :guid, :message, :url, :raw_data, :created_at)

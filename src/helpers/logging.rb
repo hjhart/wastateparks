@@ -11,7 +11,7 @@ module Logging
     @logger ||= begin 
       $stdout.sync = true
       logger = Logger.new($stdout)
-      if ENV['DEBUG'] == 'true'
+      if ENV['SEARCH_DEBUG'] == 'true'
         logger.level = Logger::DEBUG
       else
         logger.level = Logger::INFO

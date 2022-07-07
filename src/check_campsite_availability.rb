@@ -7,7 +7,7 @@ class CheckCampsiteAvailability
   include Logging
 
   def call
-    context.guid = [context.campground.id, context.params.start_date, context.params.end_date].join('-')
+    context.guid = [context.campground.id, context.params.start_date, context.params.end_date]
 
     query = URI.encode_www_form(campground_url_params)
     url = URI::HTTPS.build(host: 'washington.goingtocamp.com', path: '/create-booking/results', query: query)
@@ -43,9 +43,13 @@ class CheckCampsiteAvailability
     logger.debug "Looking for results..."
     results_pane = driver.find_elements(:css, '.list-view-results')
     if results_pane.size.positive?
-      context.message = "Availability was found at campsite #{context.campground.name}!"
-      relevant_text = results_pane.first.find_elements(:css, ".resource-name").map(&:text).join(", ")
+      context.message = "Availability was found at campground #{context.campground.name}"
+      relevant_text = results_pane.first.find_elements(:css, ".resource-name").map do |element|
+        next unless element.displayed?
+        element.text.strip
+      end
       context.data = { "available_sites": relevant_text}
+      CampsiteResultEnhancer.call(driver: driver, url: driver.current_url, context: context, logger: logger)
       context.availability_found = true
       context.url = driver.current_url
     else
@@ -94,6 +98,62 @@ class CheckCampsiteAvailability
   end
 
   def wait
+    @wait ||= Selenium::WebDriver::Wait.new(timeout: 10) # seconds
+  end
+end
+
+class CampsiteResultEnhancer
+  def self.call(driver:, context:, url:, logger:)
+    logger.debug " -> Enhancing result with first available site"
+    results_pane = driver.find_elements(:css, '.list-view-results').first
+    first_availability = results_pane.find_elements(:css, '.availability-label').select { |el| el.displayed? }.first
+    
+    original_number_of_entries = driver.find_elements(:css, '.list-view-results .list-entry').size 
+    first_availability.click
+    logger.debug " -> Clicked on first layer of availability"
+
+    wait.until do
+      entries = driver.find_elements(:css, '.list-view-results .list-entry').size
+      logger.debug " -> Number of entries changed from #{original_number_of_entries} to #{entries}"
+      entries > 0 && entries != original_number_of_entries 
+    end
+    
+    results_pane = driver.find_elements(:css, '.list-view-results').first
+    first_availability = results_pane.find_elements(:css, '.availability-label').select { |el| el.displayed? }.first
+    first_availability.click
+    logger.debug " -> Clicked on second layer of availability"
+
+    wait.until do
+      driver.find_elements(:css, '.more-details').size.positive?
+    end
+    logger.debug " -> Found details"
+    columns = results_pane.find_elements(:css, '.more-details > div')
+    campsite_name = results_pane.find_elements(:css, "h2").first.text.strip
+    context.guid << campsite_name
+    context.url = driver.current_url
+    context.message = context.message + " at campsite #{campsite_name}"
+    data = { site_name: campsite_name }
+    columns.each do |column|
+      keys = column.find_elements(:css, 'div div.details-header').map { |el| el.text.strip }
+      values = column.find_elements(:css, 'div ul').map { |list| 
+        list.find_elements(:css, 'li.details-entry').map { |list_item| list_item.text.strip }.join(" / ")
+      }
+
+      if keys.size == values.size
+        data = data.merge(keys.zip(values).to_h)
+        logger.debug " -> Added #{keys.zip(values).to_h}"
+      else  
+        logger.error " -> Something unexpected happened! Keys do not match values in column. Skipping column. {keys: #{keys}, values: #{values}}"
+        debugger
+      end
+    end
+    
+    context.data = data if data.keys.size > 0
+  rescue StandardError => e
+    logger.error " -> Something unexpected happened! Couldn't find 'details' pane. Skipping."
+  end
+
+  def self.wait
     @wait ||= Selenium::WebDriver::Wait.new(timeout: 10) # seconds
   end
 end

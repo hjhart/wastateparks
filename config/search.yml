@@ -1,15 +1,15 @@
 campground_ids: 
-  - alta_lake
   - dash_point
-  - penrose_point
-  - jarrell_cove
   - saltwater
   - belfair
-  - scenic_beach
-  - twanoh
-  - bay_view
-start_date: '2022-07-24'
-end_date: '2022-07-25'
+  - alta_lake
+  # - penrose_point
+  # - jarrell_cove
+  # - scenic_beach
+  # - twanoh
+  # - bay_view
+start_date: '2022-07-08'
+end_date: '2022-07-09'
 party_size: 2 
 subequipment_id: 
  - -32768 # one tent (see subequipment.rb for full list)

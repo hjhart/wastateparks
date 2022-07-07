@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'dotenv'
 gem 'interactor'
 gem 'rushover'
+gem 'rack'
 gem 'selenium-webdriver'
 gem 'sqlite3'
 
