@@ -1,0 +1,19 @@
+version: "3.4"
+
+services:
+  search:
+    image: ${IMAGE:-hjhart/wastateparks:development}
+    build:
+      context: .
+    environment:
+      - SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
+    stdin_open: false
+    tty: false
+    depends_on:
+      - "selenium"
+
+  selenium:
+    image: selenium/standalone-firefox:latest
+    shm_size: 1G
+    expose: 
+      - 4444
